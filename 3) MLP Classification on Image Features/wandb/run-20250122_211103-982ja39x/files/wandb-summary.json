@@ -1,0 +1,1 @@
+{"epoch":5,"_timestamp":1.737560783095561e+09,"_wandb":{"runtime":319},"Model_Hog_{variant}_val_loss":0.3290055620272954,"Model_Hog_{variant}_train_loss":0.2681592243810495,"_step":4,"_runtime":319.473753,"Model_Hog_{variant}_train_acc":0.899375,"Model_Hog_{variant}_val_acc":0.8805833333333334}

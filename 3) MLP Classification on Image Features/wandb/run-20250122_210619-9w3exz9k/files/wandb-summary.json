@@ -1,0 +1,1 @@
+{"_timestamp":1.737560319165177e+09,"_wandb":{"runtime":139},"_runtime":139.209652,"Model_Canny_{variant}_train_acc":0.8748125,"Model_Canny_{variant}_val_acc":0.8508333333333333,"Model_Canny_{variant}_val_loss":0.41550434692700705,"Model_Canny_{variant}_train_loss":0.34287799668312074,"_step":4,"epoch":5}

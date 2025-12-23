@@ -1,0 +1,5 @@
+Epoch 0: train loss 1.4786, train acc 0.4604, val loss 1.6205, val acc 0.4539
+Epoch 1: train loss 0.9490, train acc 0.6589, val loss 1.2237, val acc 0.5861
+Epoch 2: train loss 0.6910, train acc 0.7555, val loss 0.9335, val acc 0.6853
+Epoch 3: train loss 0.5450, train acc 0.8090, val loss 0.7337, val acc 0.7439
+Epoch 4: train loss 0.4353, train acc 0.8487, val loss 1.0446, val acc 0.6900

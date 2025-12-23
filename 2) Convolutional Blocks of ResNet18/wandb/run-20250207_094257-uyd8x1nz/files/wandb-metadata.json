@@ -1,0 +1,42 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-02-07T04:12:58.045904Z",
+  "program":  "/Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/1.ipynb",
+  "codePath":  "CV Assignment 2/Q1/1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/computer-vision-spring-25/assignment-2-aryangupta110.git",
+    "commit":  "7791bba7db391071911d009135a28855b59b97ab"
+  },
+  "root":  "/Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1",
+  "host":  "Aryans-MacBook-Air-3.local",
+  "executable":  "/opt/anaconda3/envs/cv/bin/python",
+  "codePathLocal":  "1.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "232563286016"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "232563286016"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "ramTotalBytes":  "8589934592"
+  }
+}

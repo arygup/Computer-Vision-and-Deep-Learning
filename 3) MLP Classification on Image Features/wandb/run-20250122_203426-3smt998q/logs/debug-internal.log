@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:34:26.638678+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203426-3smt998q/logs/debug-core.log"}
+{"time":"2025-01-22T20:34:26.779325+05:30","level":"INFO","msg":"created new stream","id":"3smt998q"}
+{"time":"2025-01-22T20:34:26.779633+05:30","level":"INFO","msg":"handler: started","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:26.779835+05:30","level":"INFO","msg":"stream: started","id":"3smt998q"}
+{"time":"2025-01-22T20:34:26.779916+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:26.779876+05:30","level":"INFO","msg":"sender: started","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:27.216872+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:34:27.709275+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:34:27.709788+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:34:28.71221+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/Model1_Hog_confusion_matrix_1_94dd16d1b33973d32231.png","runtime_seconds":0.23972925,"progress":"40.5KB/40.5KB"},{"desc":"uploading output.log","runtime_seconds":0.239718833},{"desc":"uploading wandb-summary.json","runtime_seconds":0.239716042,"progress":"464B/464B"}],"total_operations":3}}
+{"time":"2025-01-22T20:34:29.169284+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:34:30.574654+05:30","level":"INFO","msg":"stream: closing","id":"3smt998q"}
+{"time":"2025-01-22T20:34:30.574692+05:30","level":"INFO","msg":"handler: closed","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:30.574707+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:30.574718+05:30","level":"INFO","msg":"sender: closed","stream_id":"3smt998q"}
+{"time":"2025-01-22T20:34:30.57486+05:30","level":"INFO","msg":"stream: closed","id":"3smt998q"}

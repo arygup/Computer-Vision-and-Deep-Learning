@@ -1,0 +1,69 @@
+{"time":"2025-02-07T01:48:00.313575+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_014800-m5nvut2f/logs/debug-core.log"}
+{"time":"2025-02-07T01:48:00.421643+05:30","level":"INFO","msg":"created new stream","id":"m5nvut2f"}
+{"time":"2025-02-07T01:48:00.421686+05:30","level":"INFO","msg":"stream: started","id":"m5nvut2f"}
+{"time":"2025-02-07T01:48:00.421735+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m5nvut2f"}
+{"time":"2025-02-07T01:48:00.421776+05:30","level":"INFO","msg":"sender: started","stream_id":"m5nvut2f"}
+{"time":"2025-02-07T01:48:00.421837+05:30","level":"INFO","msg":"handler: started","stream_id":"m5nvut2f"}
+{"time":"2025-02-07T01:48:00.896022+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T01:48:01.638187+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:48:01.647831+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:48:01.650079+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:48:01.656188+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:48:01.956938+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:48:05.663983+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:48:05.666581+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:48:22.192072+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:51:34.251771+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.2:58382->35.186.228.49:443: read: no route to host"}
+{"time":"2025-02-07T01:52:06.653722+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:52:31.67976+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T01:52:41.000771+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:53:19.13912+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:53:49.094057+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T01:54:06.350296+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:55:08.108501+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T01:55:13.649777+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-07T01:56:33.073633+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T01:56:43.649526+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:58:07.182389+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T01:58:13.650842+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:59:43.651488+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T01:59:55.923032+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T02:01:13.655577+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T02:01:16.102479+05:30","level":"WARN","msg":"sender: taking a long time","seconds":600.002237125,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"f9j33y307bsi\"  connection_id:\"127.0.0.1:58380\")"}
+{"time":"2025-02-07T02:02:10.933526+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T02:02:13.669663+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:03:10.937147+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:03:13.674749+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:04:10.938798+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:04:11.305184+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.001606333,"work":"WorkRecord(*service_go_proto.Request_Keepalive); Control(local:true  connection_id:\"127.0.0.1:58380\")"}
+{"time":"2025-02-07T02:04:13.674884+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:04:20.851599+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.001087833,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:04:20.851644+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.001178917,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:04:20.852004+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.000154542,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:04:20.859634+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.0009465,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:04:20.862912+05:30","level":"WARN","msg":"runwork: taking a long time","seconds":600.00043025,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:05:40.946443+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:05:40.946443+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:07:10.946927+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T02:07:10.947745+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:08:40.947512+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T02:08:40.948788+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:09:43.50078+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":922.664731542,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:09:43.500819+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":922.664345709,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:09:43.500608+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":922.646906417,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:09:43.500669+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":922.650159542,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:09:43.500684+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":922.654207125,"work":"WorkRecord(*service_go_proto.Record_Stats); Control(always_send:true)"}
+{"time":"2025-02-07T02:09:43.500702+05:30","level":"INFO","msg":"runwork: succeeded after taking longer than expected","seconds":932.204745208,"work":"WorkRecord(*service_go_proto.Request_Keepalive); Control(local:true  connection_id:\"127.0.0.1:58380\")"}
+{"time":"2025-02-07T02:09:43.515551+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":1107.382866042,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"f9j33y307bsi\"  connection_id:\"127.0.0.1:58380\")"}
+{"time":"2025-02-07T02:10:39.131018+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.3:58900->35.186.228.49:443: read: no route to host"}
+{"time":"2025-02-07T02:11:11.395709+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-07T02:11:29.877065+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T02:11:46.076982+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T02:12:25.48112+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T02:12:47.147064+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2025-02-07T02:12:51.704998+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:13:00.033386+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:13:13.396652+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-07T02:13:16.30724+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:13:52.921815+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/m5nvut2f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T02:13:53.189501+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}

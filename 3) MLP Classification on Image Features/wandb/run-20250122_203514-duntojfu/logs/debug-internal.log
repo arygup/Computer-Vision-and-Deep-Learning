@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:35:14.649042+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203514-duntojfu/logs/debug-core.log"}
+{"time":"2025-01-22T20:35:14.760949+05:30","level":"INFO","msg":"created new stream","id":"duntojfu"}
+{"time":"2025-01-22T20:35:14.761031+05:30","level":"INFO","msg":"stream: started","id":"duntojfu"}
+{"time":"2025-01-22T20:35:14.761058+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:14.761113+05:30","level":"INFO","msg":"handler: started","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:14.761105+05:30","level":"INFO","msg":"sender: started","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:15.173392+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:35:27.990922+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:35:27.991855+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:35:29.000332+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.336495041,"progress":"604B/604B"}],"total_operations":1}}
+{"time":"2025-01-22T20:35:29.101888+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:35:30.50501+05:30","level":"INFO","msg":"stream: closing","id":"duntojfu"}
+{"time":"2025-01-22T20:35:30.505049+05:30","level":"INFO","msg":"handler: closed","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:30.505076+05:30","level":"INFO","msg":"sender: closed","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:30.505071+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"duntojfu"}
+{"time":"2025-01-22T20:35:30.505371+05:30","level":"INFO","msg":"stream: closed","id":"duntojfu"}

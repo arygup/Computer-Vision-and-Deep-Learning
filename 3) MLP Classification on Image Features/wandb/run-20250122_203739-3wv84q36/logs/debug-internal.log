@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:37:39.229904+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203739-3wv84q36/logs/debug-core.log"}
+{"time":"2025-01-22T20:37:39.340855+05:30","level":"INFO","msg":"created new stream","id":"3wv84q36"}
+{"time":"2025-01-22T20:37:39.340981+05:30","level":"INFO","msg":"stream: started","id":"3wv84q36"}
+{"time":"2025-01-22T20:37:39.341026+05:30","level":"INFO","msg":"sender: started","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:37:39.341083+05:30","level":"INFO","msg":"handler: started","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:37:39.341102+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:37:39.947554+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:39:38.030883+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:39:38.03157+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:39:39.039672+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.316557417,"progress":"455B/455B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.316499834,"progress":"302B/302B"}],"total_operations":2}}
+{"time":"2025-01-22T20:39:39.54057+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:39:40.969287+05:30","level":"INFO","msg":"stream: closing","id":"3wv84q36"}
+{"time":"2025-01-22T20:39:40.969315+05:30","level":"INFO","msg":"handler: closed","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:39:40.969358+05:30","level":"INFO","msg":"sender: closed","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:39:40.96938+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"3wv84q36"}
+{"time":"2025-01-22T20:39:40.969564+05:30","level":"INFO","msg":"stream: closed","id":"3wv84q36"}

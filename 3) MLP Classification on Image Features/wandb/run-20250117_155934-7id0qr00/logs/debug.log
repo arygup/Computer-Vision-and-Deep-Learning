@@ -1,0 +1,45 @@
+2025-01-17 15:59:34,993 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_155934-7id0qr00/logs/debug.log
+2025-01-17 15:59:34,994 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_155934-7id0qr00/logs/debug-internal.log
+2025-01-17 15:59:34,994 INFO    MainThread:78081 [wandb_init.py:init():743] calling init triggers
+2025-01-17 15:59:34,994 INFO    MainThread:78081 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-17 15:59:34,994 INFO    MainThread:78081 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-17 15:59:35,073 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 15:59:35,074 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:00:16,969 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:00:16,980 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_160016-lgyyacv4/logs/debug.log
+2025-01-17 16:00:16,981 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_160016-lgyyacv4/logs/debug-internal.log
+2025-01-17 16:00:16,981 INFO    MainThread:78081 [wandb_init.py:init():743] calling init triggers
+2025-01-17 16:00:16,981 INFO    MainThread:78081 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-17 16:00:16,981 INFO    MainThread:78081 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-17 16:00:17,063 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:00:17,063 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:00:56,933 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:00:56,937 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:00:56,938 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:00:57,380 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:00:57,404 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_160057-rwwhv4mn/logs/debug.log
+2025-01-17 16:00:57,404 INFO    MainThread:78081 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_160057-rwwhv4mn/logs/debug-internal.log
+2025-01-17 16:00:57,404 INFO    MainThread:78081 [wandb_init.py:init():743] calling init triggers
+2025-01-17 16:00:57,404 INFO    MainThread:78081 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-17 16:00:57,405 INFO    MainThread:78081 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-17 16:00:57,504 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:00:57,504 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:02:25,673 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:02:25,846 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:02:25,847 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:04:12,459 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:04:12,463 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:04:12,464 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:04:20,530 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:04:20,536 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:04:20,537 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:04:29,517 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:04:29,521 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:04:29,521 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:04:32,126 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend
+2025-01-17 16:04:32,128 INFO    MainThread:78081 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-17 16:04:32,130 INFO    MainThread:78081 [wandb_init.py:_pause_backend():541] pausing backend
+2025-01-17 16:05:07,146 INFO    MainThread:78081 [wandb_init.py:_resume_backend():546] resuming backend

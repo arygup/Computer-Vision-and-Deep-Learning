@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:35:30.530291+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203530-qe20j7g3/logs/debug-core.log"}
+{"time":"2025-01-22T20:35:30.641124+05:30","level":"INFO","msg":"created new stream","id":"qe20j7g3"}
+{"time":"2025-01-22T20:35:30.64134+05:30","level":"INFO","msg":"stream: started","id":"qe20j7g3"}
+{"time":"2025-01-22T20:35:30.641423+05:30","level":"INFO","msg":"sender: started","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:35:30.641492+05:30","level":"INFO","msg":"handler: started","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:35:30.641441+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:35:31.052177+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:37:36.256717+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:37:36.257317+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:37:37.266444+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.272671125,"progress":"455B/455B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.272626083,"progress":"305B/305B"}],"total_operations":2}}
+{"time":"2025-01-22T20:37:37.789071+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:37:39.211619+05:30","level":"INFO","msg":"stream: closing","id":"qe20j7g3"}
+{"time":"2025-01-22T20:37:39.211655+05:30","level":"INFO","msg":"handler: closed","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:37:39.211693+05:30","level":"INFO","msg":"sender: closed","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:37:39.211694+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qe20j7g3"}
+{"time":"2025-01-22T20:37:39.212001+05:30","level":"INFO","msg":"stream: closed","id":"qe20j7g3"}

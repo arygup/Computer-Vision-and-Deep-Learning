@@ -1,0 +1,16 @@
+{"time":"2025-01-22T21:02:21.10172+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_210221-lnjabwis/logs/debug-core.log"}
+{"time":"2025-01-22T21:02:21.214805+05:30","level":"INFO","msg":"created new stream","id":"lnjabwis"}
+{"time":"2025-01-22T21:02:21.214973+05:30","level":"INFO","msg":"stream: started","id":"lnjabwis"}
+{"time":"2025-01-22T21:02:21.214971+05:30","level":"INFO","msg":"handler: started","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:21.215008+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:21.215066+05:30","level":"INFO","msg":"sender: started","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:21.874561+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:02:22.273597+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:02:22.274017+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:02:23.280057+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/Model1_Canny_confusion_matrix_1_8ab73d45e12418b45a72.png","runtime_seconds":0.396908875,"progress":"41.9KB/41.9KB"},{"desc":"uploading output.log","runtime_seconds":0.396883667},{"desc":"uploading wandb-summary.json","runtime_seconds":0.396867583,"progress":"466B/466B"},{"desc":"uploading config.yaml","runtime_seconds":0.116005459,"progress":"604B/604B"}],"total_operations":4}}
+{"time":"2025-01-22T21:02:24.415583+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T21:02:25.812995+05:30","level":"INFO","msg":"stream: closing","id":"lnjabwis"}
+{"time":"2025-01-22T21:02:25.813035+05:30","level":"INFO","msg":"handler: closed","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:25.813072+05:30","level":"INFO","msg":"sender: closed","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:25.813061+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lnjabwis"}
+{"time":"2025-01-22T21:02:25.813279+05:30","level":"INFO","msg":"stream: closed","id":"lnjabwis"}

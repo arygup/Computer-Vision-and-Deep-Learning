@@ -1,0 +1,33 @@
+2025-02-08 12:01:04,996 INFO    MainThread:14142 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-02-08 12:01:04,996 INFO    MainThread:14142 [wandb_setup.py:_flush():68] Configure stats pid to 14142
+2025-02-08 12:01:04,996 INFO    MainThread:14142 [wandb_setup.py:_flush():68] Loading settings from /home2/aryan.g/.config/wandb/settings
+2025-02-08 12:01:04,996 INFO    MainThread:14142 [wandb_setup.py:_flush():68] Loading settings from /home2/aryan.g/Q1/wandb/settings
+2025-02-08 12:01:04,997 INFO    MainThread:14142 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-08 12:01:04,997 INFO    MainThread:14142 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250208_120104-9kgtda0x/logs/debug.log
+2025-02-08 12:01:04,997 INFO    MainThread:14142 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250208_120104-9kgtda0x/logs/debug-internal.log
+2025-02-08 12:01:04,997 INFO    MainThread:14142 [wandb_init.py:monkeypatch_ipython():589] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f6068be2b50>
+2025-02-08 12:01:04,998 INFO    MainThread:14142 [wandb_init.py:init():756] calling init triggers
+2025-02-08 12:01:04,998 INFO    MainThread:14142 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-08 12:01:04,998 INFO    MainThread:14142 [wandb_init.py:init():789] starting backend
+2025-02-08 12:01:05,750 INFO    MainThread:14142 [wandb_init.py:init():793] sending inform_init request
+2025-02-08 12:01:05,783 INFO    MainThread:14142 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-08 12:01:05,783 INFO    MainThread:14142 [wandb_init.py:init():808] backend started and connected
+2025-02-08 12:01:05,788 INFO    MainThread:14142 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-08 12:01:05,790 INFO    MainThread:14142 [wandb_init.py:init():901] updated telemetry
+2025-02-08 12:01:05,791 INFO    MainThread:14142 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-08 12:01:06,439 INFO    MainThread:14142 [wandb_init.py:init():994] starting run threads in backend
+2025-02-08 12:01:06,703 INFO    MainThread:14142 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-08 12:01:06,704 INFO    MainThread:14142 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-08 12:01:06,704 INFO    MainThread:14142 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-08 12:01:06,705 INFO    MainThread:14142 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-08 12:01:06,739 INFO    MainThread:14142 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-08 13:15:32,285 INFO    MainThread:14142 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-08 13:15:32,286 INFO    MainThread:14142 [wandb_init.py:_pause_backend():554] pausing backend
+2025-02-08 13:15:32,297 INFO    MainThread:14142 [wandb_init.py:_resume_backend():559] resuming backend
+2025-02-08 13:15:33,233 INFO    MainThread:14142 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250208_131533-q1memdqg/logs/debug.log
+2025-02-08 13:15:33,234 INFO    MainThread:14142 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250208_131533-q1memdqg/logs/debug-internal.log
+2025-02-08 13:15:33,234 INFO    MainThread:14142 [wandb_init.py:init():756] calling init triggers
+2025-02-08 13:15:33,234 INFO    MainThread:14142 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-08 13:15:33,235 INFO    MainThread:14142 [wandb_init.py:init():781] wandb.init() called when a run is still active

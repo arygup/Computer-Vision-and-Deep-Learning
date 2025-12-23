@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:15:27.726632+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201527-844irgv1/logs/debug-core.log"}
+{"time":"2025-01-22T20:15:27.839416+05:30","level":"INFO","msg":"created new stream","id":"844irgv1"}
+{"time":"2025-01-22T20:15:27.839468+05:30","level":"INFO","msg":"stream: started","id":"844irgv1"}
+{"time":"2025-01-22T20:15:27.839479+05:30","level":"INFO","msg":"handler: started","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:27.839494+05:30","level":"INFO","msg":"sender: started","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:27.839525+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:28.233535+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:15:28.339506+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:15:28.339897+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:15:29.346433+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.340364167},{"desc":"updating run config","runtime_seconds":0.339678584},{"desc":"uploading output.log","runtime_seconds":0.007437959},{"desc":"uploading wandb-summary.json","runtime_seconds":0.007405334,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-01-22T20:15:30.17951+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:15:31.569268+05:30","level":"INFO","msg":"stream: closing","id":"844irgv1"}
+{"time":"2025-01-22T20:15:31.569305+05:30","level":"INFO","msg":"handler: closed","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:31.569325+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:31.569363+05:30","level":"INFO","msg":"sender: closed","stream_id":"844irgv1"}
+{"time":"2025-01-22T20:15:31.569504+05:30","level":"INFO","msg":"stream: closed","id":"844irgv1"}

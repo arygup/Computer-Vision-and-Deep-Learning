@@ -1,0 +1,7 @@
+{"time":"2025-02-08T14:11:47.500677076+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home2/aryan.g/Q1/wandb/run-20250208_141147-dzlock2u/logs/debug-core.log"}
+{"time":"2025-02-08T14:11:47.617353557+05:30","level":"INFO","msg":"created new stream","id":"dzlock2u"}
+{"time":"2025-02-08T14:11:47.617452553+05:30","level":"INFO","msg":"stream: started","id":"dzlock2u"}
+{"time":"2025-02-08T14:11:47.617493269+05:30","level":"INFO","msg":"sender: started","stream_id":"dzlock2u"}
+{"time":"2025-02-08T14:11:47.617493732+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dzlock2u"}
+{"time":"2025-02-08T14:11:47.617556091+05:30","level":"INFO","msg":"handler: started","stream_id":"dzlock2u"}
+{"time":"2025-02-08T14:11:48.097488657+05:30","level":"INFO","msg":"Starting system monitor"}

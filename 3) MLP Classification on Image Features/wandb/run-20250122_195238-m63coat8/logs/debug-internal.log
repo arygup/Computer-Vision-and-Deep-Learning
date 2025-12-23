@@ -1,0 +1,16 @@
+{"time":"2025-01-22T19:52:38.274925+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195238-m63coat8/logs/debug-core.log"}
+{"time":"2025-01-22T19:52:38.400846+05:30","level":"INFO","msg":"created new stream","id":"m63coat8"}
+{"time":"2025-01-22T19:52:38.400972+05:30","level":"INFO","msg":"stream: started","id":"m63coat8"}
+{"time":"2025-01-22T19:52:38.400982+05:30","level":"INFO","msg":"handler: started","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:38.400968+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:38.400925+05:30","level":"INFO","msg":"sender: started","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:38.824617+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T19:52:39.315319+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T19:52:39.315893+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T19:52:40.322306+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-m63coat8-Performance_Summary","runtime_seconds":0.705777042},{"desc":"uploading output.log","runtime_seconds":0.381795584},{"desc":"uploading wandb-summary.json","runtime_seconds":0.381771792,"progress":"734B/734B"},{"desc":"uploading media/table/Performance_Summary_0_2a1dd8a2322dda1843d5.table.json","runtime_seconds":0.381766958,"progress":"283B/283B"},{"desc":"uploading config.yaml","runtime_seconds":0.028120459,"progress":"604B/604B"}],"total_operations":5}}
+{"time":"2025-01-22T19:52:42.560599+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T19:52:43.937995+05:30","level":"INFO","msg":"stream: closing","id":"m63coat8"}
+{"time":"2025-01-22T19:52:43.938028+05:30","level":"INFO","msg":"handler: closed","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:43.938048+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:43.938081+05:30","level":"INFO","msg":"sender: closed","stream_id":"m63coat8"}
+{"time":"2025-01-22T19:52:43.938246+05:30","level":"INFO","msg":"stream: closed","id":"m63coat8"}

@@ -1,0 +1,16 @@
+{"time":"2025-01-17T15:57:09.239714+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250117_155708-qlgzpqmj/logs/debug-core.log"}
+{"time":"2025-01-17T15:57:09.799039+05:30","level":"INFO","msg":"created new stream","id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:09.799084+05:30","level":"INFO","msg":"stream: started","id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:09.799293+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:09.7995+05:30","level":"INFO","msg":"sender: started","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:09.799577+05:30","level":"INFO","msg":"handler: started","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:10.306436+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-17T15:57:39.765131+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-17T15:57:39.765899+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-17T15:57:40.774522+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.0029635,"progress":"604B/604B"}],"total_operations":1}}
+{"time":"2025-01-17T15:57:41.283342+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-17T15:57:43.027108+05:30","level":"INFO","msg":"stream: closing","id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:43.027156+05:30","level":"INFO","msg":"handler: closed","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:43.027184+05:30","level":"INFO","msg":"sender: closed","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:43.027175+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"qlgzpqmj"}
+{"time":"2025-01-17T15:57:43.027411+05:30","level":"INFO","msg":"stream: closed","id":"qlgzpqmj"}

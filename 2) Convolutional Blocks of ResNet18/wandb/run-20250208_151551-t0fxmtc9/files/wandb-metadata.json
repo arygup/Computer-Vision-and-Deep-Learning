@@ -1,0 +1,75 @@
+{
+  "os":  "Linux-4.15.0-213-generic-x86_64-with-glibc2.27",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-02-08T09:45:52.262678Z",
+  "program":  "/home2/aryan.g/Q1/1_long.py",
+  "codePath":  "1_long.py",
+  "email":  "aryan.g@research.iiit.ac.in",
+  "root":  "/home2/aryan.g/Q1",
+  "host":  "gnode077",
+  "executable":  "/home2/aryan.g/miniconda3/envs/my_env/bin/python",
+  "codePathLocal":  "1_long.py",
+  "cpu_count":  20,
+  "cpu_count_logical":  40,
+  "gpu":  "NVIDIA GeForce RTX 2080 Ti",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "235150848000",
+      "used":  "95119552512"
+    }
+  },
+  "memory":  {
+    "total":  "135058235392"
+  },
+  "cpu":  {
+    "count":  20,
+    "countLogical":  40
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal":  "11811160064",
+      "cudaCores":  4352,
+      "architecture":  "Turing"
+    }
+  ],
+  "slurm":  {
+    "cluster_name":  "ada",
+    "conf":  "/etc/slurm/slurm.conf",
+    "cpus_on_node":  "10",
+    "gpus_on_node":  "1",
+    "gtids":  "0",
+    "job_account":  "research",
+    "job_cpus_per_node":  "10",
+    "job_gid":  "2000",
+    "job_gpus":  "3",
+    "job_id":  "2373621",
+    "job_name":  "job.sh",
+    "job_nodelist":  "gnode077",
+    "job_num_nodes":  "1",
+    "job_partition":  "long",
+    "job_qos":  "medium",
+    "job_uid":  "3035",
+    "job_user":  "aryan.g",
+    "jobid":  "2373621",
+    "localid":  "0",
+    "mem_per_cpu":  "2048",
+    "nnodes":  "1",
+    "node_aliases":  "(null)",
+    "nodeid":  "0",
+    "nodelist":  "gnode077",
+    "nprocs":  "10",
+    "ntasks":  "10",
+    "prio_process":  "0",
+    "procid":  "0",
+    "submit_dir":  "/home2/aryan.g/Q1",
+    "submit_host":  "ada.iiit.ac.in",
+    "task_pid":  "37103",
+    "tasks_per_node":  "10",
+    "topology_addr":  "gnode077",
+    "topology_addr_pattern":  "node",
+    "working_cluster":  "ada:172.16.0.2:6817:9728:109"
+  },
+  "cudaVersion":  "12.1"
+}

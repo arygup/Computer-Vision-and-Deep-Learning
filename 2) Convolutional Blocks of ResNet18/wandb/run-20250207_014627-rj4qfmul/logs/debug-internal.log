@@ -1,0 +1,15 @@
+{"time":"2025-02-07T01:46:27.625081+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_014627-rj4qfmul/logs/debug-core.log"}
+{"time":"2025-02-07T01:46:27.736478+05:30","level":"INFO","msg":"created new stream","id":"rj4qfmul"}
+{"time":"2025-02-07T01:46:27.736592+05:30","level":"INFO","msg":"handler: started","stream_id":"rj4qfmul"}
+{"time":"2025-02-07T01:46:27.736621+05:30","level":"INFO","msg":"stream: started","id":"rj4qfmul"}
+{"time":"2025-02-07T01:46:27.739066+05:30","level":"INFO","msg":"sender: started","stream_id":"rj4qfmul"}
+{"time":"2025-02-07T01:46:27.739087+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rj4qfmul"}
+{"time":"2025-02-07T01:46:28.223771+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T01:46:29.224059+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:46:29.234204+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:46:29.237502+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:46:29.251638+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:46:29.255119+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:46:29.262569+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T01:46:29.821488+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T01:46:35.454218+05:30","level":"INFO","msg":"Resuming system monitor"}

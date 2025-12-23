@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:19:05.915457+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201905-4ngve7rc/logs/debug-core.log"}
+{"time":"2025-01-22T20:19:06.029285+05:30","level":"INFO","msg":"created new stream","id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:06.029335+05:30","level":"INFO","msg":"stream: started","id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:06.030122+05:30","level":"INFO","msg":"sender: started","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:06.0302+05:30","level":"INFO","msg":"handler: started","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:06.030253+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:06.58108+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:19:37.523814+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:19:37.524452+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:19:38.532573+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.312104125,"progress":"921B/921B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.312065,"progress":"259B/259B"}],"total_operations":2}}
+{"time":"2025-01-22T20:19:39.11782+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:19:40.536842+05:30","level":"INFO","msg":"stream: closing","id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:40.536864+05:30","level":"INFO","msg":"handler: closed","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:40.53688+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:40.536895+05:30","level":"INFO","msg":"sender: closed","stream_id":"4ngve7rc"}
+{"time":"2025-01-22T20:19:40.537059+05:30","level":"INFO","msg":"stream: closed","id":"4ngve7rc"}

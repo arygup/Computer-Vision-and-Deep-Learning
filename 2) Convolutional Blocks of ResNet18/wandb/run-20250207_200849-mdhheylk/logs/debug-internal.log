@@ -1,0 +1,9 @@
+{"time":"2025-02-07T20:08:49.350783392+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home2/aryan.g/Q1/wandb/run-20250207_200849-mdhheylk/logs/debug-core.log"}
+{"time":"2025-02-07T20:08:49.484305401+05:30","level":"INFO","msg":"created new stream","id":"mdhheylk"}
+{"time":"2025-02-07T20:08:49.484390589+05:30","level":"INFO","msg":"stream: started","id":"mdhheylk"}
+{"time":"2025-02-07T20:08:49.484405401+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mdhheylk"}
+{"time":"2025-02-07T20:08:49.484417002+05:30","level":"INFO","msg":"sender: started","stream_id":"mdhheylk"}
+{"time":"2025-02-07T20:08:49.484438764+05:30","level":"INFO","msg":"handler: started","stream_id":"mdhheylk"}
+{"time":"2025-02-07T20:08:49.895453466+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T21:23:06.472469696+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T21:36:03.034901812+05:30","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/aryan-g/custom-resnet-224/mdhheylk/file_stream","body":"{\"error\":\"context deadline exceeded\"}"}

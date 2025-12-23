@@ -1,0 +1,29 @@
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_setup.py:_flush():68] Configure stats pid to 34831
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_setup.py:_flush():68] Loading settings from /home2/aryan.g/.config/wandb/settings
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_setup.py:_flush():68] Loading settings from /home2/aryan.g/Q1/wandb/settings
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-08 14:24:14,482 INFO    MainThread:34831 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250208_142414-8lwqyux0/logs/debug.log
+2025-02-08 14:24:14,483 INFO    MainThread:34831 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250208_142414-8lwqyux0/logs/debug-internal.log
+2025-02-08 14:24:14,483 INFO    MainThread:34831 [wandb_init.py:init():756] calling init triggers
+2025-02-08 14:24:14,483 INFO    MainThread:34831 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-08 14:24:14,483 INFO    MainThread:34831 [wandb_init.py:init():789] starting backend
+2025-02-08 14:24:15,206 INFO    MainThread:34831 [wandb_init.py:init():793] sending inform_init request
+2025-02-08 14:24:15,262 INFO    MainThread:34831 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-02-08 14:24:15,263 INFO    MainThread:34831 [wandb_init.py:init():808] backend started and connected
+2025-02-08 14:24:15,268 INFO    MainThread:34831 [wandb_init.py:init():901] updated telemetry
+2025-02-08 14:24:15,269 INFO    MainThread:34831 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-08 14:24:15,826 INFO    MainThread:34831 [wandb_init.py:init():994] starting run threads in backend
+2025-02-08 14:24:16,118 INFO    MainThread:34831 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-08 14:24:16,119 INFO    MainThread:34831 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-08 14:24:16,119 INFO    MainThread:34831 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-08 14:24:16,119 INFO    MainThread:34831 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-08 14:24:16,133 INFO    MainThread:34831 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-08 15:55:24,534 INFO    MainThread:34831 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250208_155524-8vkulhfy/logs/debug.log
+2025-02-08 15:55:24,535 INFO    MainThread:34831 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250208_155524-8vkulhfy/logs/debug-internal.log
+2025-02-08 15:55:24,535 INFO    MainThread:34831 [wandb_init.py:init():756] calling init triggers
+2025-02-08 15:55:24,535 INFO    MainThread:34831 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-08 15:55:24,535 INFO    MainThread:34831 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-02-08 17:22:29,096 WARNING MsgRouterThr:34831 [router.py:message_loop():75] message_loop has been closed

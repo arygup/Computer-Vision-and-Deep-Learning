@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:15:31.582326+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201531-1apy9uw3/logs/debug-core.log"}
+{"time":"2025-01-22T20:15:31.697113+05:30","level":"INFO","msg":"created new stream","id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:31.697175+05:30","level":"INFO","msg":"stream: started","id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:31.697182+05:30","level":"INFO","msg":"handler: started","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:31.697196+05:30","level":"INFO","msg":"sender: started","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:31.697223+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:32.22958+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:15:32.336029+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:15:32.338896+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:15:33.34331+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.351162625},{"desc":"uploading output.log","runtime_seconds":0.015823209},{"desc":"uploading wandb-summary.json","runtime_seconds":0.015793542,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-01-22T20:15:34.105211+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:15:35.470006+05:30","level":"INFO","msg":"stream: closing","id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:35.470055+05:30","level":"INFO","msg":"handler: closed","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:35.470078+05:30","level":"INFO","msg":"sender: closed","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:35.470074+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1apy9uw3"}
+{"time":"2025-01-22T20:15:35.470329+05:30","level":"INFO","msg":"stream: closed","id":"1apy9uw3"}

@@ -1,0 +1,6 @@
+{"time":"2025-02-07T20:08:49.151643576+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmphy2bcsoy/port-20236.txt","pid":20236,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-02-07T20:08:49.196246282+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":20236}
+{"time":"2025-02-07T20:08:49.196328526+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":35435,"Zone":""}}
+{"time":"2025-02-07T20:08:49.335965275+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:55132"}
+{"time":"2025-02-07T20:08:49.349010371+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"mdhheylk","id":"127.0.0.1:55132"}
+{"time":"2025-02-07T20:08:49.484401534+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"mdhheylk","id":"127.0.0.1:55132"}

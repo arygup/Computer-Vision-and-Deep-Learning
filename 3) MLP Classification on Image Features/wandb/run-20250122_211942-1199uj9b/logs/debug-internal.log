@@ -1,0 +1,16 @@
+{"time":"2025-01-22T21:19:42.089458+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_211942-1199uj9b/logs/debug-core.log"}
+{"time":"2025-01-22T21:19:42.2012+05:30","level":"INFO","msg":"created new stream","id":"1199uj9b"}
+{"time":"2025-01-22T21:19:42.201233+05:30","level":"INFO","msg":"stream: started","id":"1199uj9b"}
+{"time":"2025-01-22T21:19:42.201239+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:19:42.201246+05:30","level":"INFO","msg":"handler: started","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:19:42.201291+05:30","level":"INFO","msg":"sender: started","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:19:42.962739+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:22:17.599596+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:22:17.600113+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:22:18.604993+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.210524042,"progress":"455B/455B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.210472334,"progress":"294B/294B"}],"total_operations":2}}
+{"time":"2025-01-22T21:22:19.727094+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T21:22:21.132905+05:30","level":"INFO","msg":"stream: closing","id":"1199uj9b"}
+{"time":"2025-01-22T21:22:21.132962+05:30","level":"INFO","msg":"handler: closed","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:22:21.132987+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:22:21.133048+05:30","level":"INFO","msg":"sender: closed","stream_id":"1199uj9b"}
+{"time":"2025-01-22T21:22:21.13373+05:30","level":"INFO","msg":"stream: closed","id":"1199uj9b"}

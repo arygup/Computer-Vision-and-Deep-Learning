@@ -1,0 +1,16 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-01-22T14:45:55.173200Z",
+  "program":  "/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/q3.ipynb",
+  "codePath":  "MLP Classification on Image Features/q3.ipynb",
+  "git":  {
+    "remote":  "https://github.com/computer-vision-spring-25/assignment-1-aryangupta110.git",
+    "commit":  "019a2ea85b6746adfe7c077a64851809def7e236"
+  },
+  "email":  "aryan.g@research.iiit.ac.in",
+  "root":  "/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features",
+  "host":  "Aryans-MacBook-Air-3.local",
+  "executable":  "/opt/anaconda3/envs/cv/bin/python",
+  "codePathLocal":  "q3.ipynb"
+}

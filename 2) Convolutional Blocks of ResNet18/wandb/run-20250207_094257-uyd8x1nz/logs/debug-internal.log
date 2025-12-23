@@ -1,0 +1,118 @@
+{"time":"2025-02-07T09:42:58.05284+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_094257-uyd8x1nz/logs/debug-core.log"}
+{"time":"2025-02-07T09:42:58.166967+05:30","level":"INFO","msg":"created new stream","id":"uyd8x1nz"}
+{"time":"2025-02-07T09:42:58.167038+05:30","level":"INFO","msg":"stream: started","id":"uyd8x1nz"}
+{"time":"2025-02-07T09:42:58.167522+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"uyd8x1nz"}
+{"time":"2025-02-07T09:42:58.167589+05:30","level":"INFO","msg":"sender: started","stream_id":"uyd8x1nz"}
+{"time":"2025-02-07T09:42:58.167713+05:30","level":"INFO","msg":"handler: started","stream_id":"uyd8x1nz"}
+{"time":"2025-02-07T09:42:58.176367+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T09:43:00.214285+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T09:43:04.548788+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T09:43:15.007155+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T09:43:16.357146+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:43:24.530929+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:43:24.53508+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:43:25.776256+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:43:25.779888+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:43:26.642739+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:43:26.64584+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:43:57.154308+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:43:57.662107+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:44:08.111066+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:44:08.11549+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:44:34.536388+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:44:35.403177+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:44:47.684815+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:44:47.689377+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:45:31.439078+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:45:32.806049+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:46:05.66769+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:46:06.457163+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:46:19.847753+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:46:20.652389+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T09:46:54.116693+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T09:46:54.89032+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T10:30:04.566577+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.20.10.3:50228->35.186.228.49:443: read: operation timed out"}
+{"time":"2025-02-07T10:30:06.750478+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T10:34:42.430329+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T10:34:51.398308+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T10:34:51.641779+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T10:34:54.033448+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T10:49:53.394133+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T11:10:14.386637+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.158:50441->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-07T13:56:55.040778+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.158:50669->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-07T14:12:37.606005+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:12:39.636508+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:12:43.860409+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:12:47.257545+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.158:50939->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2025-02-07T14:12:51.817964+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:12:52.989878+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:13:01.05001+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T14:13:11.401705+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T15:05:15.488355+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T15:05:46.811683+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T15:05:55.289699+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T15:47:18.951939+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream"}
+{"time":"2025-02-07T15:47:18.955315+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/aryan-g/custom-resnet-36/uyd8x1nz/file_stream: {\"error\":\"project aryan-g/custom-resnet-36 not found while streaming file\"}"}
+{"time":"2025-02-07T16:17:13.195762+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:17:13.20198+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:17:15.888399+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:17:16.284962+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:17:45.03376+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.20.10.3:51002->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-07T16:18:17.08118+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-07T16:18:41.447143+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-07T16:29:11.019774+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:29:11.022247+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:29:39.637705+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:29:40.224437+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:29:43.387416+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:29:43.391115+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:30:09.333732+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:30:10.171955+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:30:12.817362+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:30:12.821636+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:30:31.547586+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:30:32.234738+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:30:34.726391+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:30:34.729413+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:30:40.122741+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:30:41.106526+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:31:03.266235+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:31:16.477016+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:31:16.485188+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:31:23.138582+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:31:23.147257+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:31:23.20037+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:32:03.570131+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:32:11.837578+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:32:11.853831+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:32:11.976525+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:32:14.563696+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:32:14.582525+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:32:28.940449+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:33:57.318014+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:33:57.328485+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:33:57.346316+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:33:57.351728+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:34:43.594523+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.20.10.3:51201->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-02-07T16:35:22.977647+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:35:22.994303+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:35:48.459737+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:35:48.472382+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:36:16.010086+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:36:16.022737+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:36:17.06028+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:36:29.575822+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:36:41.077723+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:36:41.087369+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:36:51.614771+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:36:51.627387+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:37:20.639845+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:37:20.652092+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:37:45.343559+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:37:45.360281+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:37:55.680028+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:37:55.694177+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T16:38:05.984029+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T16:52:02.588537+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T16:53:12.867616+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-07T16:53:33.538998+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 172.20.10.3:51445->35.186.228.49:443: read: can't assign requested address"}

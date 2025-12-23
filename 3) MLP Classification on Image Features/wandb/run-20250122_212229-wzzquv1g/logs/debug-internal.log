@@ -1,0 +1,16 @@
+{"time":"2025-01-22T21:22:29.416274+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_212229-wzzquv1g/logs/debug-core.log"}
+{"time":"2025-01-22T21:22:29.525382+05:30","level":"INFO","msg":"created new stream","id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:29.525436+05:30","level":"INFO","msg":"stream: started","id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:29.525448+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:29.525437+05:30","level":"INFO","msg":"handler: started","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:29.525447+05:30","level":"INFO","msg":"sender: started","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:29.968135+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:22:30.467336+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:22:30.467975+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:22:31.474347+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-wzzquv1g-Performance_Summary","runtime_seconds":0.669786834},{"desc":"uploading media/table/Performance_Summary_0_0c9f59bccf2e81da36d5.table.json","runtime_seconds":0.316369208,"progress":"276B/276B"},{"desc":"uploading output.log","runtime_seconds":0.31634875},{"desc":"uploading wandb-summary.json","runtime_seconds":0.316338459,"progress":"735B/735B"}],"total_operations":4}}
+{"time":"2025-01-22T21:22:34.188685+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T21:22:35.613739+05:30","level":"INFO","msg":"stream: closing","id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:35.61378+05:30","level":"INFO","msg":"handler: closed","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:35.613802+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:35.613813+05:30","level":"INFO","msg":"sender: closed","stream_id":"wzzquv1g"}
+{"time":"2025-01-22T21:22:35.614131+05:30","level":"INFO","msg":"stream: closed","id":"wzzquv1g"}

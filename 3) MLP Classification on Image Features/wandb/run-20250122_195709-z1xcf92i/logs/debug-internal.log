@@ -1,0 +1,16 @@
+{"time":"2025-01-22T19:57:09.281394+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195709-z1xcf92i/logs/debug-core.log"}
+{"time":"2025-01-22T19:57:09.393861+05:30","level":"INFO","msg":"created new stream","id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:09.393932+05:30","level":"INFO","msg":"stream: started","id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:09.393962+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:09.394012+05:30","level":"INFO","msg":"sender: started","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:09.394027+05:30","level":"INFO","msg":"handler: started","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:09.883806+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T19:57:10.256888+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T19:57:10.257282+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T19:57:11.262087+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.955672291,"progress":"1.5KB/1.5KB"},{"desc":"uploading media/images/Model1_Hog_confusion_matrix_1_6b17be4c28b7e1308135.png","runtime_seconds":0.233118709,"progress":"37.2KB/37.2KB"},{"desc":"uploading output.log","runtime_seconds":0.233103},{"desc":"uploading wandb-summary.json","runtime_seconds":0.233100166,"progress":"466B/466B"}],"total_operations":4}}
+{"time":"2025-01-22T19:57:11.911581+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T19:57:13.333267+05:30","level":"INFO","msg":"stream: closing","id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:13.333393+05:30","level":"INFO","msg":"handler: closed","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:13.33342+05:30","level":"INFO","msg":"sender: closed","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:13.333416+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z1xcf92i"}
+{"time":"2025-01-22T19:57:13.333727+05:30","level":"INFO","msg":"stream: closed","id":"z1xcf92i"}

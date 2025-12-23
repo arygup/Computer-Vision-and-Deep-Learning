@@ -1,0 +1,16 @@
+{"time":"2025-01-22T21:02:34.951679+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_210234-egy4aeam/logs/debug-core.log"}
+{"time":"2025-01-22T21:02:35.066546+05:30","level":"INFO","msg":"created new stream","id":"egy4aeam"}
+{"time":"2025-01-22T21:02:35.066679+05:30","level":"INFO","msg":"handler: started","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:35.066699+05:30","level":"INFO","msg":"stream: started","id":"egy4aeam"}
+{"time":"2025-01-22T21:02:35.066764+05:30","level":"INFO","msg":"sender: started","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:35.066768+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:35.59474+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:02:35.975246+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:02:35.975748+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:02:36.982456+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/Model1_Hog_confusion_matrix_1_d1f105f7ddb498623edd.png","runtime_seconds":0.254564625,"progress":"39.8KB/39.8KB"},{"desc":"uploading output.log","runtime_seconds":0.254552041},{"desc":"uploading wandb-summary.json","runtime_seconds":0.254548792,"progress":"464B/464B"}],"total_operations":3}}
+{"time":"2025-01-22T21:02:38.545905+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T21:02:39.994468+05:30","level":"INFO","msg":"stream: closing","id":"egy4aeam"}
+{"time":"2025-01-22T21:02:39.994501+05:30","level":"INFO","msg":"handler: closed","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:39.994521+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:39.994535+05:30","level":"INFO","msg":"sender: closed","stream_id":"egy4aeam"}
+{"time":"2025-01-22T21:02:39.994905+05:30","level":"INFO","msg":"stream: closed","id":"egy4aeam"}

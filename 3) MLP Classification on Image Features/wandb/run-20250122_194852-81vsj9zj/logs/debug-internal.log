@@ -1,0 +1,30 @@
+{"time":"2025-01-22T19:48:52.080265+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_194852-81vsj9zj/logs/debug-core.log"}
+{"time":"2025-01-22T19:48:52.193218+05:30","level":"INFO","msg":"created new stream","id":"81vsj9zj"}
+{"time":"2025-01-22T19:48:52.193285+05:30","level":"INFO","msg":"stream: started","id":"81vsj9zj"}
+{"time":"2025-01-22T19:48:52.193321+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:48:52.193329+05:30","level":"INFO","msg":"handler: started","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:48:52.193319+05:30","level":"INFO","msg":"sender: started","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:48:52.61877+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T19:48:53.309278+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:50:42.452602+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:50:43.074661+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:50:53.595691+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:51:08.637474+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:51:31.621362+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:51:31.637433+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:51:35.013967+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:51:35.022854+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:51:44.435418+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:51:44.440444+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:51:50.866611+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:52:06.430435+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T19:52:10.112545+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-22T19:52:10.534196+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T19:52:10.534798+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T19:52:11.54131+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-81vsj9zj-Performance_Summary","runtime_seconds":1.010362209},{"desc":"uploading output.log","runtime_seconds":0.258551833},{"desc":"uploading wandb-summary.json","runtime_seconds":0.25853575,"progress":"1.5KB/1.5KB"}],"total_operations":3}}
+{"time":"2025-01-22T19:52:13.683304+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T19:52:15.116327+05:30","level":"INFO","msg":"stream: closing","id":"81vsj9zj"}
+{"time":"2025-01-22T19:52:15.116364+05:30","level":"INFO","msg":"handler: closed","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:52:15.116403+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:52:15.116441+05:30","level":"INFO","msg":"sender: closed","stream_id":"81vsj9zj"}
+{"time":"2025-01-22T19:52:15.116635+05:30","level":"INFO","msg":"stream: closed","id":"81vsj9zj"}

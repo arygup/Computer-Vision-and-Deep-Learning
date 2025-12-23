@@ -1,0 +1,708 @@
+==========================================
+SLURM_JOB_ID = 2376048
+SLURM_NODELIST = gnode082
+SLURM_JOB_GPUS = 2
+==========================================
+/home2/aryan.g/Q3/2_long.py:121: RuntimeWarning: invalid value encountered in cast
+  out_np = (out_np * 255).astype(np.uint8)
+Running on device: cuda
+
+Processing pair:
+  Content: bear.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 104.38423156738281
+Iteration 5: Loss = 7.991640567779541
+Iteration 10: Loss = 3.977426052093506
+
+Processing pair:
+  Content: bear.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 8.203474044799805
+Iteration 5: Loss = 1.7795463800430298
+Iteration 10: Loss = 1.1520479917526245
+
+Processing pair:
+  Content: bear.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 11.692434310913086
+Iteration 5: Loss = 1.136194109916687
+Iteration 10: Loss = 0.5228890776634216
+
+Processing pair:
+  Content: bear.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 18.913471221923828
+Iteration 5: Loss = 2.1035165786743164
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: bear.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 4.663148403167725
+Iteration 5: Loss = 1.1715996265411377
+Iteration 10: Loss = 1.0654964447021484
+
+Processing pair:
+  Content: bear.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 2.7839035987854004
+Iteration 5: Loss = 0.09267964214086533
+Iteration 10: Loss = 0.0630500540137291
+
+Processing pair:
+  Content: bear.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 3.6307919025421143
+Iteration 5: Loss = 0.04362453892827034
+Iteration 10: Loss = 0.016723696142435074
+
+Processing pair:
+  Content: bear.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 11.843403816223145
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: bear.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 23.81564712524414
+Iteration 5: Loss = 0.6189084649085999
+Iteration 10: Loss = 0.13825781643390656
+
+Processing pair:
+  Content: bear.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 2.7409605979919434
+Iteration 5: Loss = 0.2678441107273102
+Iteration 10: Loss = 0.2057131677865982
+
+Processing pair:
+  Content: building.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 62.71992111206055
+Iteration 5: Loss = 0.8418701887130737
+Iteration 10: Loss = 0.6322073936462402
+
+Processing pair:
+  Content: building.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 36.26068115234375
+Iteration 5: Loss = 2.514954090118408
+Iteration 10: Loss = 2.100623369216919
+
+Processing pair:
+  Content: building.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 13.411161422729492
+Iteration 5: Loss = 0.057830993086099625
+Iteration 10: Loss = 0.03944728523492813
+
+Processing pair:
+  Content: building.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 17.920656204223633
+Iteration 5: Loss = 0.9020681977272034
+Iteration 10: Loss = 0.7287526726722717
+
+Processing pair:
+  Content: building.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 18.11571502685547
+Iteration 5: Loss = 0.3663474917411804
+Iteration 10: Loss = 0.35961198806762695
+
+Processing pair:
+  Content: building.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 23.43100929260254
+Iteration 5: Loss = 0.2712777554988861
+Iteration 10: Loss = 0.17536763846874237
+
+Processing pair:
+  Content: building.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 14.471731185913086
+Iteration 5: Loss = 0.2697063088417053
+Iteration 10: Loss = 0.6768874526023865
+
+Processing pair:
+  Content: building.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 28.121109008789062
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: building.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 19.140127182006836
+Iteration 5: Loss = 0.7529360055923462
+Iteration 10: Loss = 0.5074217319488525
+
+Processing pair:
+  Content: building.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 25.821657180786133
+Iteration 5: Loss = 0.030692042782902718
+Iteration 10: Loss = 0.010079935193061829
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 107.65180969238281
+Iteration 5: Loss = 5.419857978820801
+Iteration 10: Loss = 3.9444189071655273
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 6.590025424957275
+Iteration 5: Loss = 0.42254364490509033
+Iteration 10: Loss = 0.2295406311750412
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 14.390602111816406
+Iteration 5: Loss = 1.9426621198654175
+Iteration 10: Loss = 1.6501139402389526
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 24.26504135131836
+Iteration 5: Loss = 4.664953231811523
+Iteration 10: Loss = 4.132916450500488
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 7.45608377456665
+Iteration 5: Loss = 3.1186089515686035
+Iteration 10: Loss = 3.2379798889160156
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 3.1473875045776367
+Iteration 5: Loss = 0.7876676321029663
+Iteration 10: Loss = 0.6047529578208923
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 4.424786567687988
+Iteration 5: Loss = 0.3564290404319763
+Iteration 10: Loss = 0.2677103281021118
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 14.354523658752441
+Iteration 5: Loss = 2.595449209213257
+Iteration 10: Loss = 1.9503755569458008
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 24.696613311767578
+Iteration 5: Loss = 0.6064404845237732
+Iteration 10: Loss = 0.22933541238307953
+
+Processing pair:
+  Content: cat-on-table.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 4.785198211669922
+Iteration 5: Loss = 1.2832317352294922
+Iteration 10: Loss = 1.093973994255066
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 109.59554290771484
+Iteration 5: Loss = 4.519075870513916
+Iteration 10: Loss = 2.140125036239624
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 7.173455238342285
+Iteration 5: Loss = 1.0321431159973145
+Iteration 10: Loss = 0.6722570061683655
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 15.053515434265137
+Iteration 5: Loss = 1.2163766622543335
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 23.403785705566406
+Iteration 5: Loss = 4.960331916809082
+Iteration 10: Loss = 2.582603693008423
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 5.358160972595215
+Iteration 5: Loss = 1.6582175493240356
+Iteration 10: Loss = 1.5328445434570312
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 2.9438118934631348
+Iteration 5: Loss = 0.17597009241580963
+Iteration 10: Loss = 0.09412192553281784
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 4.9865498542785645
+Iteration 5: Loss = 0.03473678231239319
+Iteration 10: Loss = 0.016705621033906937
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 12.67851734161377
+Iteration 5: Loss = 1.143997073173523
+Iteration 10: Loss = 0.8995295166969299
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 25.94663429260254
+Iteration 5: Loss = 0.676586925983429
+Iteration 10: Loss = 1.9371285438537598
+
+Processing pair:
+  Content: cat-sleeping.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 3.195570468902588
+Iteration 5: Loss = 0.4409671127796173
+Iteration 10: Loss = 0.3879794478416443
+
+Processing pair:
+  Content: cat.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 94.83193969726562
+Iteration 5: Loss = 3.076946973800659
+Iteration 10: Loss = 1.5042973756790161
+
+Processing pair:
+  Content: cat.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 11.6949462890625
+Iteration 5: Loss = 2.075770139694214
+Iteration 10: Loss = 1.2908841371536255
+
+Processing pair:
+  Content: cat.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 11.126374244689941
+Iteration 5: Loss = 0.3635862469673157
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: cat.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 19.04566192626953
+Iteration 5: Loss = 1.892091155052185
+Iteration 10: Loss = 1.5611011981964111
+
+Processing pair:
+  Content: cat.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 4.829568386077881
+Iteration 5: Loss = 28.193056106567383
+Iteration 10: Loss = 0.879736065864563
+
+Processing pair:
+  Content: cat.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 5.389775276184082
+Iteration 5: Loss = 0.14170479774475098
+Iteration 10: Loss = 0.04443761706352234
+
+Processing pair:
+  Content: cat.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 4.539148807525635
+Iteration 5: Loss = 0.08166597038507462
+Iteration 10: Loss = 0.05010950192809105
+
+Processing pair:
+  Content: cat.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 13.135293006896973
+Iteration 5: Loss = 0.6833765506744385
+Iteration 10: Loss = 0.4409977197647095
+
+Processing pair:
+  Content: cat.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 22.957550048828125
+Iteration 5: Loss = 0.4786759912967682
+Iteration 10: Loss = 0.21088223159313202
+
+Processing pair:
+  Content: cat.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 5.908278465270996
+Iteration 5: Loss = 0.14035464823246002
+Iteration 10: Loss = 0.09664808213710785
+
+Processing pair:
+  Content: cows.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 73.1368637084961
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: cows.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 23.495920181274414
+Iteration 5: Loss = 1.0171703100204468
+Iteration 10: Loss = 0.6852684617042542
+
+Processing pair:
+  Content: cows.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 7.736668586730957
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: cows.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 10.148432731628418
+Iteration 5: Loss = 2.757909059524536
+Iteration 10: Loss = 2.4836490154266357
+
+Processing pair:
+  Content: cows.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 18.51834487915039
+Iteration 5: Loss = 289.15960693359375
+Iteration 10: Loss = 1.6689212322235107
+
+Processing pair:
+  Content: cows.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 12.951616287231445
+Iteration 5: Loss = 0.18201027810573578
+Iteration 10: Loss = 0.09835584461688995
+
+Processing pair:
+  Content: cows.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 10.632121086120605
+Iteration 5: Loss = 0.04022151976823807
+Iteration 10: Loss = 0.02109633758664131
+
+Processing pair:
+  Content: cows.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 16.0733699798584
+Iteration 5: Loss = 1.1639513969421387
+Iteration 10: Loss = 0.9390462636947632
+
+Processing pair:
+  Content: cows.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 21.8779296875
+Iteration 5: Loss = 0.25154978036880493
+Iteration 10: Loss = 0.08119528740644455
+
+Processing pair:
+  Content: cows.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 15.8920316696167
+Iteration 5: Loss = 0.4343357980251312
+Iteration 10: Loss = 0.3792954385280609
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 87.1044692993164
+Iteration 5: Loss = 3.895357370376587
+Iteration 10: Loss = 3.9202535152435303
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 12.834954261779785
+Iteration 5: Loss = 0.5039064288139343
+Iteration 10: Loss = 0.2892659604549408
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 9.131165504455566
+Iteration 5: Loss = 1.692309021949768
+Iteration 10: Loss = 2.798569440841675
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 18.687158584594727
+Iteration 5: Loss = 6.281017780303955
+Iteration 10: Loss = 4.4901862144470215
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 8.979270935058594
+Iteration 5: Loss = 2.7714877128601074
+Iteration 10: Loss = 2.5144400596618652
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 5.663429260253906
+Iteration 5: Loss = 0.7868271470069885
+Iteration 10: Loss = 0.4999673068523407
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 3.7475576400756836
+Iteration 5: Loss = 0.22735823690891266
+Iteration 10: Loss = 0.1856340765953064
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 18.323936462402344
+Iteration 5: Loss = 2.833552122116089
+Iteration 10: Loss = 1.9182981252670288
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 15.378039360046387
+Iteration 5: Loss = 0.2211742103099823
+Iteration 10: Loss = 0.09043765068054199
+
+Processing pair:
+  Content: mountains.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 8.870100021362305
+Iteration 5: Loss = 1.243369698524475
+Iteration 10: Loss = 1.035591721534729
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 84.421875
+Iteration 5: Loss = 3.3126275539398193
+Iteration 10: Loss = 2.0593788623809814
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 6.007053852081299
+Iteration 5: Loss = 0.6978610754013062
+Iteration 10: Loss = 185.3970184326172
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 13.676560401916504
+Iteration 5: Loss = 0.8704715967178345
+Iteration 10: Loss = 102.41622924804688
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 20.60274887084961
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 3.924351453781128
+Iteration 5: Loss = 2.8543388843536377
+Iteration 10: Loss = 1.5126811265945435
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 6.479246616363525
+Iteration 5: Loss = 0.3665211796760559
+Iteration 10: Loss = 0.15949495136737823
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 3.134449005126953
+Iteration 5: Loss = 0.040895428508520126
+Iteration 10: Loss = 0.022663135081529617
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 8.88957691192627
+Iteration 5: Loss = 1.1233155727386475
+Iteration 10: Loss = 0.9069275856018066
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 19.205698013305664
+Iteration 5: Loss = 0.1740753948688507
+Iteration 10: Loss = 0.04604218527674675
+
+Processing pair:
+  Content: picnic.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 5.184640884399414
+Iteration 5: Loss = 0.440828800201416
+Iteration 10: Loss = 0.3795434236526489
+
+Processing pair:
+  Content: town.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 90.19400024414062
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: town.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 10.595202445983887
+Iteration 5: Loss = 0.340008407831192
+Iteration 10: Loss = 0.20770013332366943
+
+Processing pair:
+  Content: town.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 9.194613456726074
+Iteration 5: Loss = 1.6247340440750122
+Iteration 10: Loss = 1.5339183807373047
+
+Processing pair:
+  Content: town.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 19.228113174438477
+Iteration 5: Loss = 4.116169452667236
+Iteration 10: Loss = 4.279518127441406
+
+Processing pair:
+  Content: town.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 6.875375270843506
+Iteration 5: Loss = 2.7189228534698486
+Iteration 10: Loss = 2.562070369720459
+
+Processing pair:
+  Content: town.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 2.673551559448242
+Iteration 5: Loss = 0.5238438844680786
+Iteration 10: Loss = 0.42805925011634827
+
+Processing pair:
+  Content: town.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 2.2884957790374756
+Iteration 5: Loss = 0.22714588046073914
+Iteration 10: Loss = 0.1988825500011444
+
+Processing pair:
+  Content: town.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 15.153203964233398
+Iteration 5: Loss = 2.2780516147613525
+Iteration 10: Loss = 1.8304076194763184
+
+Processing pair:
+  Content: town.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 14.143790245056152
+Iteration 5: Loss = 0.2078900784254074
+Iteration 10: Loss = 0.10365672409534454
+
+Processing pair:
+  Content: town.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 6.744419097900391
+Iteration 5: Loss = 1.1903666257858276
+Iteration 10: Loss = 1.0450953245162964
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   Erin-Hanson-Monet's-Bridge.jpg
+Iteration 0: Loss = 94.75565338134766
+Iteration 5: Loss = 2.0898659229278564
+Iteration 10: Loss = 1.7090851068496704
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   bet-you.jpg
+Iteration 0: Loss = 7.617297649383545
+Iteration 5: Loss = 1.3213990926742554
+Iteration 10: Loss = 1.186047911643982
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   head-of-paula-eyles.jpg
+Iteration 0: Loss = 11.347243309020996
+Iteration 5: Loss = 0.3196847438812256
+Iteration 10: Loss = 0.3144678771495819
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   horse-cart.jpg
+Iteration 0: Loss = 17.240449905395508
+Iteration 5: Loss = nan
+Iteration 10: Loss = nan
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   landscape-with-a-palace.jpg
+Iteration 0: Loss = 4.331506729125977
+Iteration 5: Loss = 0.8870728015899658
+Iteration 10: Loss = 0.8185012340545654
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   not-detected.jpg
+Iteration 0: Loss = 3.0143966674804688
+Iteration 5: Loss = 0.31409531831741333
+Iteration 10: Loss = 0.0224133413285017
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   red-sea-passage.jpg
+Iteration 0: Loss = 2.352125883102417
+Iteration 5: Loss = 0.04031131789088249
+Iteration 10: Loss = 20.04006004333496
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   the-couple.jpg
+Iteration 0: Loss = 8.76655101776123
+Iteration 5: Loss = 1.0819036960601807
+Iteration 10: Loss = 0.4196421205997467
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   the-exit-of-the-russian-ballet.jpg
+Iteration 0: Loss = 20.722393035888672
+Iteration 5: Loss = 10.566149711608887
+Iteration 10: Loss = 4.746472358703613
+
+Processing pair:
+  Content: white-building.jpg
+  Style:   zebra.jpg
+Iteration 0: Loss = 2.589175224304199
+Iteration 5: Loss = 0.11025611311197281
+Iteration 10: Loss = 0.082333043217659

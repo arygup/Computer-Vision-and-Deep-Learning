@@ -1,0 +1,480 @@
+2025-01-22 19:52:10,134 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195210-wye0k163/logs/debug.log
+2025-01-22 19:52:10,134 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195210-wye0k163/logs/debug-internal.log
+2025-01-22 19:52:10,135 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 19:52:10,135 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 19:52:10,135 INFO    MainThread:10154 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-01-22 19:52:10,531 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/81vsj9zj
+2025-01-22 19:52:10,532 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 19:52:10,532 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 19:52:10,532 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 19:52:10,533 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 19:52:10,533 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 19:52:10,533 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 19:52:15,110 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 19:52:15,111 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 19:52:15,111 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 19:52:38,270 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195238-m63coat8/logs/debug.log
+2025-01-22 19:52:38,271 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195238-m63coat8/logs/debug-internal.log
+2025-01-22 19:52:38,271 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x176724850>
+2025-01-22 19:52:38,271 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 19:52:38,271 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 19:52:38,271 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 19:52:38,272 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 19:52:38,273 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 19:52:38,274 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 19:52:38,297 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 19:52:38,301 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 19:52:38,321 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 19:52:38,822 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 19:52:38,967 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 19:52:38,967 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 19:52:38,968 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 19:52:38,968 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 19:52:38,969 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 19:52:39,314 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/m63coat8
+2025-01-22 19:52:39,314 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 19:52:39,314 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 19:52:39,314 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 19:52:39,314 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 19:52:39,314 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 19:52:39,315 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 19:52:43,932 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 19:52:43,933 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 19:52:43,933 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 19:56:48,393 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195648-vax6tkvc/logs/debug.log
+2025-01-22 19:56:48,395 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195648-vax6tkvc/logs/debug-internal.log
+2025-01-22 19:56:48,395 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x30ac01c40>
+2025-01-22 19:56:48,395 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 19:56:48,395 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 19:56:48,396 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 19:56:48,396 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 19:56:48,398 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 19:56:48,399 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 19:56:48,424 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 19:56:48,430 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 19:56:48,479 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 19:56:49,297 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 19:56:49,446 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 19:56:49,447 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 19:56:49,447 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 19:56:49,448 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 19:56:49,448 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 19:56:49,791 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/vax6tkvc
+2025-01-22 19:56:49,792 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 19:56:49,792 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 19:56:49,793 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 19:56:49,793 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 19:56:49,793 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 19:56:49,794 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 19:56:52,763 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 19:56:52,764 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 19:56:52,767 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 19:56:56,589 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195656-p6uawr8f/logs/debug.log
+2025-01-22 19:56:56,589 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195656-p6uawr8f/logs/debug-internal.log
+2025-01-22 19:56:56,589 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x30dab9520>
+2025-01-22 19:56:56,589 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 19:56:56,589 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 19:56:56,590 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 19:56:56,590 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 19:56:56,591 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 19:56:56,591 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 19:56:56,596 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 19:56:56,598 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 19:56:56,618 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 19:56:57,182 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 19:56:57,283 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 19:56:57,284 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 19:56:57,284 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 19:56:57,284 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 19:56:57,285 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 19:56:57,553 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/p6uawr8f
+2025-01-22 19:56:57,554 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 19:56:57,554 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 19:56:57,554 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 19:56:57,554 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 19:56:57,554 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 19:56:57,555 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 19:57:00,269 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 19:57:00,270 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 19:57:00,275 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 19:57:09,277 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195709-z1xcf92i/logs/debug.log
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195709-z1xcf92i/logs/debug-internal.log
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3134f0970>
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 19:57:09,279 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 19:57:09,281 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 19:57:09,281 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 19:57:09,285 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 19:57:09,288 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 19:57:09,307 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 19:57:09,882 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 19:57:09,980 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 19:57:09,981 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 19:57:09,981 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 19:57:09,981 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 19:57:09,983 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 19:57:10,255 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/z1xcf92i
+2025-01-22 19:57:10,256 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 19:57:10,256 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 19:57:10,256 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 19:57:10,256 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 19:57:10,256 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 19:57:10,256 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 19:57:13,322 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 19:57:13,324 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 19:57:13,327 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:11:57,110 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201157-2q49dsi0/logs/debug.log
+2025-01-22 20:11:57,111 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201157-2q49dsi0/logs/debug-internal.log
+2025-01-22 20:11:57,111 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x30ab21a00>
+2025-01-22 20:11:57,112 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:11:57,112 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:11:57,112 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:11:57,112 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:11:57,116 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:11:57,116 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:11:57,126 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:11:57,129 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:11:57,154 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:11:57,902 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:11:58,128 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:11:58,129 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:11:58,129 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:11:58,130 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:11:58,131 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:11:58,132 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/2q49dsi0
+2025-01-22 20:11:58,132 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:11:58,133 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:11:58,133 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:11:58,133 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:11:58,133 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:11:58,133 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:12:01,350 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:12:01,351 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:12:01,352 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:12:01,369 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201201-wnr27ixl/logs/debug.log
+2025-01-22 20:12:01,370 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201201-wnr27ixl/logs/debug-internal.log
+2025-01-22 20:12:01,370 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x176781220>
+2025-01-22 20:12:01,370 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:12:01,370 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:12:01,371 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:12:01,371 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:12:01,372 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:12:01,373 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:12:01,382 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:12:01,390 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:12:01,413 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:12:01,959 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:12:02,123 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:12:02,124 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:12:02,124 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:12:02,125 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:12:02,125 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:12:02,126 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/wnr27ixl
+2025-01-22 20:12:02,126 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:12:02,126 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:12:02,127 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:12:02,127 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:12:02,127 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:12:02,127 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:12:05,344 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:12:05,345 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:12:05,345 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201205-5hlqjsi9/logs/debug.log
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201205-5hlqjsi9/logs/debug-internal.log
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x3151d9d60>
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:12:05,353 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:12:05,354 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:12:05,355 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:12:05,360 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:12:05,364 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:12:05,382 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:12:05,990 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:12:06,095 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:12:06,095 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:12:06,096 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:12:06,096 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:12:06,096 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:12:06,097 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/5hlqjsi9
+2025-01-22 20:12:06,097 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:12:06,097 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:12:06,097 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:12:06,097 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:12:06,097 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:12:06,098 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:12:09,246 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:12:09,246 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:12:09,247 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:23,633 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201523-f9v6kpum/logs/debug.log
+2025-01-22 20:15:23,635 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201523-f9v6kpum/logs/debug-internal.log
+2025-01-22 20:15:23,635 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x1761235b0>
+2025-01-22 20:15:23,636 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:23,636 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:23,636 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:23,636 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:23,637 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:23,638 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:23,649 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:23,651 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:23,669 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:24,240 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:24,407 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:24,408 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:24,408 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:24,408 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:24,409 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:24,410 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/f9v6kpum
+2025-01-22 20:15:24,411 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:24,411 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:24,411 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:24,411 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:24,411 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:24,412 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:27,704 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:27,705 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:27,705 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:27,721 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201527-844irgv1/logs/debug.log
+2025-01-22 20:15:27,722 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201527-844irgv1/logs/debug-internal.log
+2025-01-22 20:15:27,722 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x313863b80>
+2025-01-22 20:15:27,722 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:27,723 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:27,723 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:27,723 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:27,725 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:27,726 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:27,733 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:27,737 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:27,758 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:28,231 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:28,336 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:28,336 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:28,336 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:28,337 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:28,337 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:28,338 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/844irgv1
+2025-01-22 20:15:28,338 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:28,338 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:28,338 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:28,338 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:28,339 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:28,339 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:31,561 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:31,562 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:31,563 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:31,579 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201531-1apy9uw3/logs/debug.log
+2025-01-22 20:15:31,579 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201531-1apy9uw3/logs/debug-internal.log
+2025-01-22 20:15:31,579 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x313863b50>
+2025-01-22 20:15:31,579 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:31,580 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:31,580 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:31,580 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:31,581 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:31,582 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:31,589 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:31,597 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:31,615 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:32,227 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:32,332 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:32,333 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:32,333 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:32,333 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:32,334 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:32,334 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/1apy9uw3
+2025-01-22 20:15:32,335 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:32,335 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:32,335 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:32,335 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:32,335 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:32,335 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:35,461 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:35,464 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:35,464 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:35,483 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201535-yj69t3tw/logs/debug.log
+2025-01-22 20:15:35,483 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201535-yj69t3tw/logs/debug-internal.log
+2025-01-22 20:15:35,484 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x174cad280>
+2025-01-22 20:15:35,484 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:35,484 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:35,485 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:35,485 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:35,486 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:35,486 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:35,495 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:35,500 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:35,518 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:36,123 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:36,224 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:36,224 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:36,224 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:36,224 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:36,225 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:36,225 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/yj69t3tw
+2025-01-22 20:15:36,226 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:36,226 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:36,226 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:36,226 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:36,226 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:36,226 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:39,483 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:39,484 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:39,484 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:39,504 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201539-4d7wguh2/logs/debug.log
+2025-01-22 20:15:39,505 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201539-4d7wguh2/logs/debug-internal.log
+2025-01-22 20:15:39,505 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x176664eb0>
+2025-01-22 20:15:39,505 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:39,506 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:39,507 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:39,507 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:39,510 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:39,511 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:39,522 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:39,526 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:39,544 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:40,113 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:40,280 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:40,281 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:40,281 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:40,282 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:40,282 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:40,283 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/4d7wguh2
+2025-01-22 20:15:40,283 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:40,283 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:40,283 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:40,284 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:40,284 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:40,284 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:43,647 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:43,648 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:43,649 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:43,665 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201543-vyyadrrs/logs/debug.log
+2025-01-22 20:15:43,666 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201543-vyyadrrs/logs/debug-internal.log
+2025-01-22 20:15:43,666 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x174f88310>
+2025-01-22 20:15:43,666 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:43,666 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:43,667 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:43,667 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:43,668 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:43,668 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:43,674 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:43,681 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:43,703 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:44,205 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:44,356 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:44,357 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:44,357 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:44,357 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:44,358 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:44,358 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/vyyadrrs
+2025-01-22 20:15:44,359 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:44,359 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:44,359 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:44,359 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:44,360 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:44,360 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:47,465 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:47,466 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:47,466 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:47,477 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201547-q05w7v4a/logs/debug.log
+2025-01-22 20:15:47,478 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201547-q05w7v4a/logs/debug-internal.log
+2025-01-22 20:15:47,478 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x17627b2b0>
+2025-01-22 20:15:47,478 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:47,478 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:47,479 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:47,479 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:47,480 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:47,480 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:47,485 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:47,489 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:47,508 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:48,102 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:48,208 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:48,209 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:48,209 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:48,209 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:48,210 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:48,210 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/q05w7v4a
+2025-01-22 20:15:48,211 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:48,211 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:48,211 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:48,211 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:48,211 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:48,211 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:51,423 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:51,424 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:51,425 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:51,443 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201551-sm9ir9ru/logs/debug.log
+2025-01-22 20:15:51,444 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201551-sm9ir9ru/logs/debug-internal.log
+2025-01-22 20:15:51,444 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x313b41f40>
+2025-01-22 20:15:51,445 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:51,445 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:51,445 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:51,445 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:51,447 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:51,448 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:51,455 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:51,463 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:51,482 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:51,992 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:52,098 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:52,098 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:52,098 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:52,099 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:52,099 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:52,100 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/sm9ir9ru
+2025-01-22 20:15:52,100 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:52,100 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:52,100 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:52,100 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:52,100 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:52,101 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:55,155 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:55,155 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:55,155 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files
+2025-01-22 20:15:55,168 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201555-k1i1ry65/logs/debug.log
+2025-01-22 20:15:55,169 INFO    MainThread:10154 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_201555-k1i1ry65/logs/debug-internal.log
+2025-01-22 20:15:55,169 INFO    MainThread:10154 [wandb_init.py:monkeypatch_ipython():576] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x17627b490>
+2025-01-22 20:15:55,169 INFO    MainThread:10154 [wandb_init.py:init():743] calling init triggers
+2025-01-22 20:15:55,169 INFO    MainThread:10154 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-01-22 20:15:55,170 INFO    MainThread:10154 [wandb_init.py:init():776] starting backend
+2025-01-22 20:15:55,170 INFO    MainThread:10154 [wandb_init.py:init():780] sending inform_init request
+2025-01-22 20:15:55,172 INFO    MainThread:10154 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-01-22 20:15:55,172 INFO    MainThread:10154 [wandb_init.py:init():795] backend started and connected
+2025-01-22 20:15:55,179 INFO    MainThread:10154 [wandb_run.py:_label_probe_notebook():1213] probe notebook
+2025-01-22 20:15:55,184 INFO    MainThread:10154 [wandb_init.py:init():888] updated telemetry
+2025-01-22 20:15:55,207 INFO    MainThread:10154 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-01-22 20:15:55,672 INFO    MainThread:10154 [wandb_init.py:init():967] starting run threads in backend
+2025-01-22 20:15:55,785 INFO    MainThread:10154 [wandb_run.py:_console_start():2409] atexit reg
+2025-01-22 20:15:55,785 INFO    MainThread:10154 [wandb_run.py:_redirect():2259] redirect: wrap_raw
+2025-01-22 20:15:55,785 INFO    MainThread:10154 [wandb_run.py:_redirect():2324] Wrapping output streams.
+2025-01-22 20:15:55,785 INFO    MainThread:10154 [wandb_run.py:_redirect():2349] Redirects installed.
+2025-01-22 20:15:55,786 INFO    MainThread:10154 [wandb_init.py:init():1009] run started, returning control to user process
+2025-01-22 20:15:55,787 INFO    MainThread:10154 [wandb_run.py:_finish():2134] finishing run smaia3/mlp-feature-comparison/k1i1ry65
+2025-01-22 20:15:55,787 ERROR   MainThread:10154 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-01-22 20:15:55,787 INFO    MainThread:10154 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-01-22 20:15:55,787 INFO    MainThread:10154 [wandb_init.py:_jupyter_teardown():558] cleaning up jupyter logic
+2025-01-22 20:15:55,787 INFO    MainThread:10154 [wandb_run.py:_atexit_cleanup():2374] got exitcode: 0
+2025-01-22 20:15:55,787 INFO    MainThread:10154 [wandb_run.py:_restore():2356] restore
+2025-01-22 20:15:55,788 INFO    MainThread:10154 [wandb_run.py:_restore():2362] restore done
+2025-01-22 20:15:58,855 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():3976] rendering history
+2025-01-22 20:15:58,858 INFO    MainThread:10154 [wandb_run.py:_footer_history_summary_info():4008] rendering summary
+2025-01-22 20:15:58,858 INFO    MainThread:10154 [wandb_run.py:_footer_sync_info():3937] logging synced files

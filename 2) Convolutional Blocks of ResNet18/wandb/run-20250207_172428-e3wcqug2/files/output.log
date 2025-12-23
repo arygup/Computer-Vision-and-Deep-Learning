@@ -1,0 +1,172 @@
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+ResNet(
+  (conv1): Conv2d(3, 64, kernel_size=(7, 7), stride=(2, 2), padding=(3, 3), bias=False)
+  (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (relu): ReLU(inplace=True)
+  (maxpool): MaxPool2d(kernel_size=3, stride=2, padding=1, dilation=1, ceil_mode=False)
+  (layer1): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer2): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(64, 128, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv2d(64, 128, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer3): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(128, 256, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv2d(128, 256, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (layer4): Sequential(
+    (0): BasicBlock(
+      (conv1): Conv2d(256, 512, kernel_size=(3, 3), stride=(2, 2), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (downsample): Sequential(
+        (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(2, 2), bias=False)
+        (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+    (1): BasicBlock(
+      (conv1): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (relu): ReLU(inplace=True)
+      (conv2): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (bn2): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+  )
+  (avgpool): AdaptiveAvgPool2d(output_size=(1, 1))
+  (fc): Linear(in_features=512, out_features=10, bias=True)
+)
+Number of parameters: 11181642
+Epoch 0: train loss 1.3500, train acc 0.5062, val loss 1.2242, val acc 0.5652
+Epoch 1: train loss 0.9615, train acc 0.6573, val loss 1.2493, val acc 0.5716
+Epoch 2: train loss 0.7752, train acc 0.7263, val loss 0.9158, val acc 0.6841
+Epoch 3: train loss 0.6221, train acc 0.7818, val loss 0.9319, val acc 0.6873
+Epoch 4: train loss 0.5041, train acc 0.8242, val loss 1.2961, val acc 0.6094
+Epoch 5: train loss 0.4050, train acc 0.8568, val loss 1.3121, val acc 0.6352
+Epoch 6: train loss 0.3123, train acc 0.8896, val loss 1.3271, val acc 0.6481
+Epoch 7: train loss 0.2431, train acc 0.9156, val loss 1.3105, val acc 0.6550
+Epoch 8: train loss 0.1893, train acc 0.9337, val loss 1.2043, val acc 0.6893
+Epoch 9: train loss 0.1369, train acc 0.9528, val loss 1.5668, val acc 0.6565
+Epoch 10: train loss 0.1208, train acc 0.9570, val loss 1.3675, val acc 0.7008
+Epoch 11: train loss 0.1033, train acc 0.9637, val loss 1.3640, val acc 0.6970
+Epoch 12: train loss 0.0914, train acc 0.9681, val loss 1.3559, val acc 0.7059
+Epoch 13: train loss 0.0845, train acc 0.9704, val loss 1.5508, val acc 0.6990
+Epoch 14: train loss 0.0755, train acc 0.9741, val loss 1.4639, val acc 0.7119
+Epoch 15: train loss 0.0575, train acc 0.9796, val loss 1.5773, val acc 0.7084
+Epoch 16: train loss 0.0740, train acc 0.9750, val loss 1.5052, val acc 0.7031
+Epoch 17: train loss 0.0495, train acc 0.9827, val loss 1.4034, val acc 0.7371
+Epoch 18: train loss 0.0589, train acc 0.9796, val loss 1.4254, val acc 0.7218
+Epoch 19: train loss 0.0507, train acc 0.9826, val loss 1.5127, val acc 0.7253
+Epoch 20: train loss 0.0435, train acc 0.9847, val loss 1.5972, val acc 0.7088
+Epoch 21: train loss 0.0495, train acc 0.9832, val loss 1.7144, val acc 0.7037
+Epoch 22: train loss 0.0494, train acc 0.9833, val loss 1.5138, val acc 0.7264
+Epoch 23: train loss 0.0324, train acc 0.9892, val loss 1.6209, val acc 0.7206
+Epoch 24: train loss 0.0436, train acc 0.9849, val loss 1.7315, val acc 0.7079
+Epoch 25: train loss 0.0418, train acc 0.9854, val loss 1.6572, val acc 0.6969
+Epoch 26: train loss 0.0408, train acc 0.9862, val loss 1.5065, val acc 0.7325
+Epoch 27: train loss 0.0309, train acc 0.9890, val loss 1.8122, val acc 0.7143
+Epoch 28: train loss 0.0362, train acc 0.9877, val loss 1.5201, val acc 0.7295
+Epoch 29: train loss 0.0356, train acc 0.9877, val loss 1.7355, val acc 0.6941
+Model saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.7745, train acc 0.7333, val loss 0.8332, val acc 0.7260
+custom-resnet-36-pretrained saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.7723, train acc 0.7355, val loss 0.6720, val acc 0.7644
+Epoch 1: train loss 0.4330, train acc 0.8509, val loss 0.6193, val acc 0.7941
+Epoch 2: train loss 0.3009, train acc 0.8964, val loss 0.6362, val acc 0.8032
+Epoch 3: train loss 0.2172, train acc 0.9256, val loss 0.6707, val acc 0.7999
+Epoch 4: train loss 0.1641, train acc 0.9431, val loss 0.7384, val acc 0.7940
+Epoch 5: train loss 0.1351, train acc 0.9535, val loss 0.7305, val acc 0.8047
+Epoch 6: train loss 0.1042, train acc 0.9646, val loss 0.9083, val acc 0.7763
+Epoch 7: train loss 0.0783, train acc 0.9729, val loss 0.7339, val acc 0.8251
+Epoch 8: train loss 0.0773, train acc 0.9737, val loss 0.8338, val acc 0.8125
+Epoch 9: train loss 0.0637, train acc 0.9782, val loss 0.8646, val acc 0.7988
+Epoch 10: train loss 0.0540, train acc 0.9817, val loss 0.8512, val acc 0.8055
+Epoch 11: train loss 0.0497, train acc 0.9832, val loss 0.8504, val acc 0.8163
+Epoch 12: train loss 0.0487, train acc 0.9835, val loss 1.0047, val acc 0.7815
+Epoch 13: train loss 0.0480, train acc 0.9839, val loss 0.9079, val acc 0.8094
+Epoch 14: train loss 0.0392, train acc 0.9867, val loss 0.8091, val acc 0.8325
+Epoch 15: train loss 0.0365, train acc 0.9878, val loss 0.8113, val acc 0.8252
+Epoch 16: train loss 0.0342, train acc 0.9882, val loss 0.8734, val acc 0.8217
+Epoch 17: train loss 0.0341, train acc 0.9887, val loss 0.8617, val acc 0.8206
+Epoch 18: train loss 0.0340, train acc 0.9880, val loss 0.8609, val acc 0.8237
+Epoch 19: train loss 0.0291, train acc 0.9900, val loss 0.8937, val acc 0.8213
+Epoch 20: train loss 0.0366, train acc 0.9878, val loss 0.9267, val acc 0.8135
+Epoch 21: train loss 0.0243, train acc 0.9917, val loss 0.9433, val acc 0.8241
+Epoch 22: train loss 0.0273, train acc 0.9909, val loss 1.0802, val acc 0.8009
+Epoch 23: train loss 0.0289, train acc 0.9902, val loss 0.9579, val acc 0.8121
+Epoch 24: train loss 0.0287, train acc 0.9904, val loss 0.8575, val acc 0.8255
+Epoch 25: train loss 0.0254, train acc 0.9918, val loss 0.9513, val acc 0.8231
+Epoch 26: train loss 0.0227, train acc 0.9922, val loss 0.9194, val acc 0.8273
+Epoch 27: train loss 0.0316, train acc 0.9892, val loss 0.9373, val acc 0.8146
+Epoch 28: train loss 0.0291, train acc 0.9903, val loss 0.8888, val acc 0.8235
+Epoch 29: train loss 0.0204, train acc 0.9932, val loss 1.1327, val acc 0.7929
+custom-resnet-36-pretrained saved successfully.
+torch.Size([1, 10])
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)

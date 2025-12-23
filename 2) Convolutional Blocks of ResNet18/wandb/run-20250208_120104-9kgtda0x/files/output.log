@@ -1,0 +1,53 @@
+Epoch 0: train loss 1.4655, train acc 0.4616, val loss 2.3516, val acc 0.3733
+Epoch 1: train loss 0.9263, train acc 0.6722, val loss 0.9622, val acc 0.6526
+Epoch 2: train loss 0.6758, train acc 0.7637, val loss 0.7712, val acc 0.7296
+Epoch 3: train loss 0.5389, train acc 0.8117, val loss 0.7312, val acc 0.7507
+Epoch 4: train loss 0.4352, train acc 0.8475, val loss 0.8096, val acc 0.7371
+Epoch 5: train loss 0.3438, train acc 0.8807, val loss 0.9371, val acc 0.7165
+Epoch 6: train loss 0.2692, train acc 0.9068, val loss 0.7610, val acc 0.7639
+Epoch 7: train loss 0.1915, train acc 0.9338, val loss 0.7475, val acc 0.7749
+Epoch 8: train loss 0.1317, train acc 0.9545, val loss 0.8291, val acc 0.7770
+Epoch 9: train loss 0.0960, train acc 0.9676, val loss 1.1594, val acc 0.7330
+Epoch 10: train loss 0.0679, train acc 0.9772, val loss 0.7615, val acc 0.8130
+Epoch 11: train loss 0.0617, train acc 0.9792, val loss 0.8253, val acc 0.8062
+Epoch 12: train loss 0.0417, train acc 0.9868, val loss 0.7196, val acc 0.8275
+Epoch 13: train loss 0.0337, train acc 0.9889, val loss 1.1117, val acc 0.7811
+Epoch 14: train loss 0.0431, train acc 0.9852, val loss 1.0033, val acc 0.7843
+Epoch 15: train loss 0.0446, train acc 0.9843, val loss 0.7706, val acc 0.8259
+Epoch 16: train loss 0.0426, train acc 0.9856, val loss 1.1706, val acc 0.7618
+Epoch 17: train loss 0.0292, train acc 0.9902, val loss 0.7232, val acc 0.8429
+Epoch 18: train loss 0.0296, train acc 0.9896, val loss 0.8750, val acc 0.8228
+Epoch 19: train loss 0.0239, train acc 0.9920, val loss 0.8635, val acc 0.8218
+Epoch 20: train loss 0.0203, train acc 0.9930, val loss 1.3240, val acc 0.7675
+Epoch 21: train loss 0.0367, train acc 0.9871, val loss 1.2391, val acc 0.7621
+Epoch 22: train loss 0.0346, train acc 0.9884, val loss 0.9407, val acc 0.8192
+Epoch 23: train loss 0.0162, train acc 0.9947, val loss 0.8167, val acc 0.8402
+Epoch 24: train loss 0.0132, train acc 0.9956, val loss 1.0636, val acc 0.8082
+Epoch 25: train loss 0.0280, train acc 0.9900, val loss 0.8882, val acc 0.8217
+Epoch 26: train loss 0.0393, train acc 0.9866, val loss 0.9316, val acc 0.8184
+Epoch 27: train loss 0.0248, train acc 0.9910, val loss 0.8158, val acc 0.8351
+Epoch 28: train loss 0.0180, train acc 0.9938, val loss 0.8775, val acc 0.8313
+Epoch 29: train loss 0.0118, train acc 0.9962, val loss 0.8731, val acc 0.8349
+custom-resnet-224 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.4279, train acc 0.8529, val loss 0.4587, val acc 0.8504
+Epoch 1: train loss 0.2032, train acc 0.9293, val loss 0.3950, val acc 0.8674
+Epoch 2: train loss 0.1298, train acc 0.9554, val loss 0.4135, val acc 0.8707
+Epoch 3: train loss 0.0897, train acc 0.9694, val loss 0.4408, val acc 0.8670
+Epoch 4: train loss 0.0660, train acc 0.9770, val loss 0.3324, val acc 0.9031
+Epoch 5: train loss 0.0514, train acc 0.9825, val loss 0.5693, val acc 0.8634
+Epoch 6: train loss 0.0509, train acc 0.9819, val loss 0.3503, val acc 0.9039
+Epoch 7: train loss 0.0457, train acc 0.9841, val loss 0.4543, val acc 0.8887
+Epoch 8: train loss 0.0338, train acc 0.9891, val loss 0.3216, val acc 0.9158
+Epoch 9: train loss 0.0201, train acc 0.9932, val loss 0.3507, val acc 0.9104
+Epoch 10: train loss 0.0379, train acc 0.9867, val loss 0.4246, val acc 0.8978
+Epoch 11: train loss 0.0307, train acc 0.9893, val loss 0.3716, val acc 0.9140
+Epoch 12: train loss 0.0257, train acc 0.9913, val loss 0.3965, val acc 0.9096
+Epoch 13: train loss 0.0210, train acc 0.9928, val loss 0.3546, val acc 0.9158
+Epoch 14: train loss 0.0305, train acc 0.9894, val loss 0.4106, val acc 0.9030
+Epoch 15: train loss 0.0286, train acc 0.9903, val loss 0.4881, val acc 0.8872
+Epoch 16: train loss 0.0205, train acc 0.9937, val loss 0.3300, val acc 0.9191
+Epoch 17: train loss 0.0158, train acc 0.9947, val loss 0.3436, val acc 0.9235

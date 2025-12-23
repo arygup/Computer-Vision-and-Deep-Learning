@@ -1,0 +1,1 @@
+{"Model1_Raw_train_acc":0.8408541666666667,"_timestamp":1.737559053303433e+09,"Model1_Raw_train_loss":0.44883811110258104,"Model1_Raw_val_acc":0.8448333333333333,"_runtime":38.517901,"Model1_Raw_val_loss":0.4257157802581787,"_wandb":{"runtime":38},"epoch":10,"_step":9}

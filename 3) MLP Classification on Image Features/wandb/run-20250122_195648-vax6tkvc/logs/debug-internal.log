@@ -1,0 +1,16 @@
+{"time":"2025-01-22T19:56:48.401443+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_195648-vax6tkvc/logs/debug-core.log"}
+{"time":"2025-01-22T19:56:48.524593+05:30","level":"INFO","msg":"created new stream","id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:48.524709+05:30","level":"INFO","msg":"stream: started","id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:48.524722+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:48.524732+05:30","level":"INFO","msg":"handler: started","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:48.524775+05:30","level":"INFO","msg":"sender: started","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:49.300983+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T19:56:49.79447+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T19:56:49.794998+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T19:56:50.801406+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.321596583,"progress":"465B/465B"},{"desc":"uploading media/images/Model1_Raw_confusion_matrix_1_825778a9d0dc1202ff1f.png","runtime_seconds":0.321560667,"progress":"51.4KB/51.4KB"},{"desc":"uploading output.log","runtime_seconds":0.321551917}],"total_operations":3}}
+{"time":"2025-01-22T19:56:51.338359+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T19:56:52.772585+05:30","level":"INFO","msg":"stream: closing","id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:52.772618+05:30","level":"INFO","msg":"handler: closed","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:52.772638+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:52.772708+05:30","level":"INFO","msg":"sender: closed","stream_id":"vax6tkvc"}
+{"time":"2025-01-22T19:56:52.772933+05:30","level":"INFO","msg":"stream: closed","id":"vax6tkvc"}

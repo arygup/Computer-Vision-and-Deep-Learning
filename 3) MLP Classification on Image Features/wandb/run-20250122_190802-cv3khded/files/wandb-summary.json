@@ -1,0 +1,1 @@
+{"Model1_Canny_val_acc":0.8488333333333333,"Model1_Canny_train_acc":0.938875,"_step":15,"_wandb":{"runtime":1423},"_runtime":1423.863211209,"Model1_Canny_train_loss":0.1662305067256093,"_timestamp":1.737554638278951e+09,"Model1_Canny_val_loss":0.5262334678967794,"epoch":10}

@@ -1,0 +1,359 @@
+Epoch 0: train loss 1.3263, train acc 0.5214, val loss 1.1704, val acc 0.5995
+Epoch 1: train loss 0.8234, train acc 0.7084, val loss 1.1783, val acc 0.6298
+Epoch 2: train loss 0.5934, train acc 0.7924, val loss 0.9938, val acc 0.6800
+Epoch 3: train loss 0.4425, train acc 0.8455, val loss 0.6897, val acc 0.7750
+Epoch 4: train loss 0.3291, train acc 0.8844, val loss 0.7135, val acc 0.7741
+Epoch 5: train loss 0.2326, train acc 0.9191, val loss 0.7306, val acc 0.7851
+Epoch 6: train loss 0.1522, train acc 0.9490, val loss 0.7898, val acc 0.7823
+Epoch 7: train loss 0.1069, train acc 0.9631, val loss 0.8222, val acc 0.7695
+Epoch 8: train loss 0.0756, train acc 0.9746, val loss 0.7831, val acc 0.7977
+Epoch 9: train loss 0.0591, train acc 0.9804, val loss 1.2768, val acc 0.7274
+Epoch 10: train loss 0.0509, train acc 0.9834, val loss 0.9269, val acc 0.7967
+Epoch 11: train loss 0.0471, train acc 0.9840, val loss 0.9087, val acc 0.7971
+Epoch 12: train loss 0.0465, train acc 0.9834, val loss 0.8433, val acc 0.8128
+Epoch 13: train loss 0.0289, train acc 0.9907, val loss 1.1745, val acc 0.7751
+Epoch 14: train loss 0.0321, train acc 0.9885, val loss 1.0348, val acc 0.7886
+Epoch 15: train loss 0.0335, train acc 0.9882, val loss 0.9014, val acc 0.8127
+Epoch 16: train loss 0.0290, train acc 0.9902, val loss 0.9742, val acc 0.7984
+Epoch 17: train loss 0.0307, train acc 0.9894, val loss 1.0181, val acc 0.7988
+Epoch 18: train loss 0.0251, train acc 0.9917, val loss 1.2019, val acc 0.7731
+Epoch 19: train loss 0.0309, train acc 0.9891, val loss 1.2237, val acc 0.7834
+Epoch 20: train loss 0.0291, train acc 0.9905, val loss 1.1309, val acc 0.7891
+Epoch 21: train loss 0.0200, train acc 0.9935, val loss 0.9959, val acc 0.8106
+Epoch 22: train loss 0.0234, train acc 0.9919, val loss 1.4032, val acc 0.7544
+Epoch 23: train loss 0.0256, train acc 0.9915, val loss 1.1648, val acc 0.7911
+Epoch 24: train loss 0.0263, train acc 0.9909, val loss 0.9809, val acc 0.8099
+Epoch 25: train loss 0.0253, train acc 0.9907, val loss 1.1310, val acc 0.8010
+Epoch 26: train loss 0.0172, train acc 0.9944, val loss 1.0179, val acc 0.8133
+Epoch 27: train loss 0.0142, train acc 0.9951, val loss 1.0270, val acc 0.8179
+Epoch 28: train loss 0.0132, train acc 0.9957, val loss 1.1174, val acc 0.8090
+Epoch 29: train loss 0.0145, train acc 0.9949, val loss 1.1908, val acc 0.7863
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+/tmp/ipykernel_19653/1256962000.py:1: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  train_data = torch.load("train_data.pt")
+/tmp/ipykernel_19653/1256962000.py:2: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  train_labels = torch.load("train_labels.pt")
+/tmp/ipykernel_19653/1256962000.py:3: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  test_data = torch.load("test_data.pt")
+/tmp/ipykernel_19653/1256962000.py:4: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  test_labels = torch.load("test_labels.pt")
+Number of classes: 10
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 0: train loss 1.3886, train acc 0.4945, val loss 1.3431, val acc 0.5287
+Epoch 1: train loss 0.8901, train acc 0.6830, val loss 0.9428, val acc 0.6727
+Epoch 2: train loss 0.6558, train acc 0.7701, val loss 1.0156, val acc 0.6781
+Epoch 3: train loss 0.4810, train acc 0.8321, val loss 0.7734, val acc 0.7497
+Epoch 4: train loss 0.3663, train acc 0.8720, val loss 0.9050, val acc 0.7301
+Epoch 5: train loss 0.2568, train acc 0.9113, val loss 1.0122, val acc 0.7170
+Epoch 6: train loss 0.1780, train acc 0.9385, val loss 0.7606, val acc 0.7749
+Epoch 7: train loss 0.1216, train acc 0.9587, val loss 0.8838, val acc 0.7670
+Epoch 8: train loss 0.0856, train acc 0.9704, val loss 0.8378, val acc 0.7860
+Epoch 9: train loss 0.0647, train acc 0.9776, val loss 1.0171, val acc 0.7687
+Epoch 10: train loss 0.0543, train acc 0.9813, val loss 0.8797, val acc 0.7896
+Epoch 11: train loss 0.0476, train acc 0.9837, val loss 1.0026, val acc 0.7796
+Epoch 12: train loss 0.0506, train acc 0.9822, val loss 0.8906, val acc 0.7987
+Epoch 13: train loss 0.0331, train acc 0.9886, val loss 0.9660, val acc 0.7968
+Epoch 14: train loss 0.0210, train acc 0.9930, val loss 1.0376, val acc 0.7952
+Epoch 15: train loss 0.0253, train acc 0.9917, val loss 1.0894, val acc 0.7949
+Epoch 16: train loss 0.0336, train acc 0.9886, val loss 1.0695, val acc 0.7888
+Epoch 17: train loss 0.0357, train acc 0.9876, val loss 1.2812, val acc 0.7577
+Epoch 18: train loss 0.0438, train acc 0.9844, val loss 1.0745, val acc 0.7860
+Epoch 19: train loss 0.0348, train acc 0.9880, val loss 1.1416, val acc 0.7788
+Epoch 20: train loss 0.0276, train acc 0.9901, val loss 1.0545, val acc 0.7871
+Epoch 21: train loss 0.0122, train acc 0.9959, val loss 1.1632, val acc 0.7992
+Epoch 22: train loss 0.0126, train acc 0.9958, val loss 1.0594, val acc 0.8052
+Epoch 23: train loss 0.0309, train acc 0.9887, val loss 1.1096, val acc 0.7923
+Epoch 24: train loss 0.0276, train acc 0.9905, val loss 1.0836, val acc 0.7954
+Epoch 25: train loss 0.0244, train acc 0.9917, val loss 1.0055, val acc 0.8092
+Epoch 26: train loss 0.0208, train acc 0.9931, val loss 1.0122, val acc 0.8060
+Epoch 27: train loss 0.0141, train acc 0.9952, val loss 1.0551, val acc 0.8074
+Epoch 28: train loss 0.0133, train acc 0.9955, val loss 1.1487, val acc 0.8095
+Epoch 29: train loss 0.0120, train acc 0.9960, val loss 1.2053, val acc 0.8020
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 0: train loss 1.4014, train acc 0.4870, val loss 1.2227, val acc 0.5552
+Epoch 1: train loss 0.8796, train acc 0.6875, val loss 0.9914, val acc 0.6627
+Epoch 2: train loss 0.6508, train acc 0.7719, val loss 0.9244, val acc 0.6935
+Epoch 3: train loss 0.4916, train acc 0.8295, val loss 0.7415, val acc 0.7553
+Epoch 4: train loss 0.3816, train acc 0.8665, val loss 0.9248, val acc 0.7325
+Epoch 5: train loss 0.2874, train acc 0.9002, val loss 0.7434, val acc 0.7658
+Epoch 6: train loss 0.1978, train acc 0.9313, val loss 0.9128, val acc 0.7464
+Epoch 7: train loss 0.1351, train acc 0.9536, val loss 0.7521, val acc 0.7963
+Epoch 8: train loss 0.0919, train acc 0.9687, val loss 1.2614, val acc 0.7316
+Epoch 9: train loss 0.0749, train acc 0.9741, val loss 0.8281, val acc 0.7966
+Epoch 10: train loss 0.0608, train acc 0.9793, val loss 0.9373, val acc 0.7864
+Epoch 11: train loss 0.0530, train acc 0.9816, val loss 0.8375, val acc 0.8082
+Epoch 12: train loss 0.0430, train acc 0.9856, val loss 1.1044, val acc 0.7763
+Epoch 13: train loss 0.0388, train acc 0.9869, val loss 0.9053, val acc 0.8069
+Epoch 14: train loss 0.0381, train acc 0.9870, val loss 0.9967, val acc 0.7947
+Epoch 15: train loss 0.0296, train acc 0.9903, val loss 1.3229, val acc 0.7635
+Epoch 16: train loss 0.0318, train acc 0.9892, val loss 0.8553, val acc 0.8141
+Epoch 17: train loss 0.0304, train acc 0.9897, val loss 1.3291, val acc 0.7584
+Epoch 18: train loss 0.0352, train acc 0.9877, val loss 1.1262, val acc 0.7771
+Epoch 19: train loss 0.0333, train acc 0.9882, val loss 1.0205, val acc 0.7924
+Epoch 20: train loss 0.0204, train acc 0.9934, val loss 1.0282, val acc 0.8024
+Epoch 21: train loss 0.0208, train acc 0.9932, val loss 0.9807, val acc 0.8106
+Epoch 22: train loss 0.0185, train acc 0.9934, val loss 0.9563, val acc 0.8199
+Epoch 23: train loss 0.0174, train acc 0.9939, val loss 1.1446, val acc 0.7959
+Epoch 24: train loss 0.0289, train acc 0.9900, val loss 0.9577, val acc 0.8189
+Epoch 25: train loss 0.0192, train acc 0.9935, val loss 1.3012, val acc 0.7776
+Epoch 26: train loss 0.0274, train acc 0.9904, val loss 1.0742, val acc 0.8028
+Epoch 27: train loss 0.0183, train acc 0.9937, val loss 0.9414, val acc 0.8209
+Epoch 28: train loss 0.0170, train acc 0.9941, val loss 1.1798, val acc 0.7971
+Epoch 29: train loss 0.0212, train acc 0.9927, val loss 1.1926, val acc 0.7999
+custom-resnet-36-mod1 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.6640, train acc 0.7690, val loss 0.5433, val acc 0.8209
+Epoch 1: train loss 0.2785, train acc 0.9035, val loss 0.4144, val acc 0.8569
+Epoch 2: train loss 0.1586, train acc 0.9446, val loss 0.4319, val acc 0.8686
+Epoch 3: train loss 0.1020, train acc 0.9648, val loss 0.3709, val acc 0.8873
+Epoch 4: train loss 0.0693, train acc 0.9765, val loss 0.4610, val acc 0.8753
+Epoch 5: train loss 0.0554, train acc 0.9809, val loss 0.4909, val acc 0.8788
+Epoch 6: train loss 0.0465, train acc 0.9842, val loss 0.5168, val acc 0.8698
+Epoch 7: train loss 0.0364, train acc 0.9871, val loss 0.4757, val acc 0.8839
+Epoch 8: train loss 0.0299, train acc 0.9904, val loss 0.4134, val acc 0.8955
+Epoch 9: train loss 0.0309, train acc 0.9890, val loss 0.5831, val acc 0.8687
+Epoch 10: train loss 0.0385, train acc 0.9872, val loss 0.6321, val acc 0.8562
+Epoch 11: train loss 0.0298, train acc 0.9899, val loss 0.4968, val acc 0.8873
+Epoch 12: train loss 0.0211, train acc 0.9926, val loss 0.4102, val acc 0.8996
+Epoch 13: train loss 0.0145, train acc 0.9953, val loss 0.4392, val acc 0.8985
+Epoch 14: train loss 0.0177, train acc 0.9939, val loss 0.5606, val acc 0.8826
+Epoch 15: train loss 0.0199, train acc 0.9932, val loss 0.5172, val acc 0.8810
+Epoch 16: train loss 0.0297, train acc 0.9896, val loss 0.5724, val acc 0.8686
+Epoch 17: train loss 0.0208, train acc 0.9931, val loss 0.4607, val acc 0.8969
+Epoch 18: train loss 0.0151, train acc 0.9953, val loss 0.4596, val acc 0.8997
+Epoch 19: train loss 0.0134, train acc 0.9957, val loss 0.5241, val acc 0.8898
+Epoch 20: train loss 0.0126, train acc 0.9959, val loss 0.5563, val acc 0.8865
+Epoch 21: train loss 0.0257, train acc 0.9916, val loss 0.5504, val acc 0.8789
+Epoch 22: train loss 0.0263, train acc 0.9911, val loss 0.4764, val acc 0.8907
+Epoch 23: train loss 0.0129, train acc 0.9958, val loss 0.4611, val acc 0.9003
+Epoch 24: train loss 0.0061, train acc 0.9980, val loss 0.4746, val acc 0.9033
+Epoch 25: train loss 0.0070, train acc 0.9975, val loss 0.5587, val acc 0.8911
+Epoch 26: train loss 0.0237, train acc 0.9920, val loss 0.6000, val acc 0.8743
+Epoch 27: train loss 0.0256, train acc 0.9916, val loss 0.4906, val acc 0.8922
+Epoch 28: train loss 0.0109, train acc 0.9963, val loss 0.4450, val acc 0.9054
+Epoch 29: train loss 0.0066, train acc 0.9980, val loss 0.4598, val acc 0.9041
+custom-resnet-36-mod1-pretrained saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.9986, train acc 0.6436, val loss 0.7735, val acc 0.7302
+Epoch 1: train loss 0.5471, train acc 0.8101, val loss 0.6990, val acc 0.7677
+Epoch 2: train loss 0.3608, train acc 0.8743, val loss 0.7718, val acc 0.7472
+Epoch 3: train loss 0.2403, train acc 0.9171, val loss 0.7411, val acc 0.7828
+Epoch 4: train loss 0.1711, train acc 0.9398, val loss 0.7288, val acc 0.7977
+Epoch 5: train loss 0.1232, train acc 0.9572, val loss 0.8362, val acc 0.7821
+Epoch 6: train loss 0.0858, train acc 0.9701, val loss 0.7901, val acc 0.7993
+Epoch 7: train loss 0.0802, train acc 0.9721, val loss 0.8425, val acc 0.8090
+Epoch 8: train loss 0.0615, train acc 0.9792, val loss 1.0933, val acc 0.7739
+Epoch 9: train loss 0.0583, train acc 0.9799, val loss 0.9233, val acc 0.7954
+Epoch 10: train loss 0.0444, train acc 0.9846, val loss 0.9489, val acc 0.7931
+Epoch 11: train loss 0.0403, train acc 0.9862, val loss 0.9283, val acc 0.8058
+Epoch 12: train loss 0.0339, train acc 0.9889, val loss 1.1669, val acc 0.7726
+Epoch 13: train loss 0.0369, train acc 0.9876, val loss 1.0344, val acc 0.7944
+Epoch 14: train loss 0.0362, train acc 0.9871, val loss 0.8740, val acc 0.8220
+Epoch 15: train loss 0.0313, train acc 0.9892, val loss 1.4596, val acc 0.7291
+Epoch 16: train loss 0.0370, train acc 0.9872, val loss 0.8758, val acc 0.8249
+Epoch 17: train loss 0.0282, train acc 0.9903, val loss 0.9296, val acc 0.8154
+Epoch 18: train loss 0.0226, train acc 0.9920, val loss 0.8587, val acc 0.8320
+Epoch 19: train loss 0.0264, train acc 0.9907, val loss 0.9475, val acc 0.8130
+Epoch 20: train loss 0.0386, train acc 0.9868, val loss 0.9173, val acc 0.8131
+Epoch 21: train loss 0.0281, train acc 0.9905, val loss 0.9534, val acc 0.8110
+Epoch 22: train loss 0.0227, train acc 0.9922, val loss 0.8482, val acc 0.8281
+Epoch 23: train loss 0.0190, train acc 0.9934, val loss 0.8978, val acc 0.8264
+Epoch 24: train loss 0.0247, train acc 0.9918, val loss 0.8520, val acc 0.8314
+Epoch 25: train loss 0.0161, train acc 0.9948, val loss 0.8513, val acc 0.8331
+Epoch 26: train loss 0.0128, train acc 0.9957, val loss 0.9286, val acc 0.8261
+Epoch 27: train loss 0.0277, train acc 0.9910, val loss 1.0282, val acc 0.8035
+Epoch 28: train loss 0.0228, train acc 0.9923, val loss 0.8992, val acc 0.8255
+Epoch 29: train loss 0.0238, train acc 0.9918, val loss 0.8902, val acc 0.8282
+custom-resnet-36-mod1 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 0: train loss 1.3917, train acc 0.4889, val loss 1.3387, val acc 0.5143
+Epoch 1: train loss 0.8880, train acc 0.6832, val loss 1.4432, val acc 0.5563
+Epoch 2: train loss 0.6561, train acc 0.7680, val loss 0.9780, val acc 0.6601
+Epoch 3: train loss 0.5030, train acc 0.8243, val loss 0.9395, val acc 0.7144
+Epoch 4: train loss 0.3837, train acc 0.8661, val loss 0.7869, val acc 0.7419
+Epoch 5: train loss 0.2776, train acc 0.9023, val loss 0.8095, val acc 0.7604
+Epoch 6: train loss 0.1958, train acc 0.9325, val loss 0.9437, val acc 0.7553
+Epoch 7: train loss 0.1453, train acc 0.9506, val loss 0.9504, val acc 0.7571
+Epoch 8: train loss 0.1025, train acc 0.9651, val loss 0.8441, val acc 0.7809
+Epoch 9: train loss 0.0734, train acc 0.9749, val loss 0.7507, val acc 0.8080
+Epoch 10: train loss 0.0530, train acc 0.9820, val loss 0.8505, val acc 0.8015
+Epoch 11: train loss 0.0595, train acc 0.9797, val loss 0.9987, val acc 0.7807
+Epoch 12: train loss 0.0475, train acc 0.9837, val loss 1.0513, val acc 0.7798
+Epoch 13: train loss 0.0334, train acc 0.9887, val loss 0.8562, val acc 0.8095
+Epoch 14: train loss 0.0223, train acc 0.9927, val loss 1.0164, val acc 0.7950
+Epoch 15: train loss 0.0343, train acc 0.9882, val loss 1.0924, val acc 0.7851
+Epoch 16: train loss 0.0415, train acc 0.9854, val loss 1.1819, val acc 0.7701
+Epoch 17: train loss 0.0431, train acc 0.9847, val loss 0.9415, val acc 0.8031
+Epoch 18: train loss 0.0310, train acc 0.9890, val loss 1.0455, val acc 0.7919
+Epoch 19: train loss 0.0263, train acc 0.9912, val loss 1.1093, val acc 0.7911
+Epoch 20: train loss 0.0234, train acc 0.9918, val loss 1.0939, val acc 0.8048
+Epoch 21: train loss 0.0179, train acc 0.9945, val loss 0.9149, val acc 0.8210
+Epoch 22: train loss 0.0134, train acc 0.9956, val loss 0.9133, val acc 0.8243
+Epoch 23: train loss 0.0325, train acc 0.9884, val loss 0.9533, val acc 0.8205
+Epoch 24: train loss 0.0346, train acc 0.9882, val loss 1.0814, val acc 0.7947
+Epoch 25: train loss 0.0229, train acc 0.9925, val loss 1.0637, val acc 0.7995
+Epoch 26: train loss 0.0159, train acc 0.9947, val loss 1.0653, val acc 0.8050
+Epoch 27: train loss 0.0159, train acc 0.9945, val loss 0.9492, val acc 0.8210
+Epoch 28: train loss 0.0183, train acc 0.9938, val loss 1.3761, val acc 0.7767
+Epoch 29: train loss 0.0201, train acc 0.9931, val loss 1.0134, val acc 0.8151
+custom-resnet-36-mod3 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 0: train loss 1.3930, train acc 0.4943, val loss 1.1428, val acc 0.5894
+Epoch 1: train loss 0.9308, train acc 0.6681, val loss 1.1848, val acc 0.6078
+Epoch 2: train loss 0.6817, train acc 0.7583, val loss 0.8292, val acc 0.7142
+Epoch 3: train loss 0.4993, train acc 0.8253, val loss 0.9801, val acc 0.6847
+Epoch 4: train loss 0.3498, train acc 0.8781, val loss 0.9532, val acc 0.7167
+Epoch 5: train loss 0.2432, train acc 0.9159, val loss 1.0679, val acc 0.7106
+Epoch 6: train loss 0.1609, train acc 0.9447, val loss 1.0729, val acc 0.7248
+Epoch 7: train loss 0.1225, train acc 0.9570, val loss 1.1595, val acc 0.7195
+Epoch 8: train loss 0.0964, train acc 0.9660, val loss 1.2727, val acc 0.7203
+Epoch 9: train loss 0.0757, train acc 0.9738, val loss 1.3682, val acc 0.7202
+Epoch 10: train loss 0.0575, train acc 0.9798, val loss 1.3406, val acc 0.7367
+Epoch 11: train loss 0.0576, train acc 0.9794, val loss 1.5657, val acc 0.7020
+Epoch 12: train loss 0.0606, train acc 0.9784, val loss 1.4500, val acc 0.7242
+Epoch 13: train loss 0.0495, train acc 0.9825, val loss 1.3368, val acc 0.7425
+Epoch 14: train loss 0.0350, train acc 0.9877, val loss 1.2969, val acc 0.7569
+Epoch 15: train loss 0.0326, train acc 0.9883, val loss 1.2416, val acc 0.7608
+Epoch 16: train loss 0.0435, train acc 0.9847, val loss 1.5101, val acc 0.7205
+Epoch 17: train loss 0.0386, train acc 0.9870, val loss 1.2192, val acc 0.7641
+Epoch 18: train loss 0.0286, train acc 0.9903, val loss 1.4755, val acc 0.7301
+Epoch 19: train loss 0.0318, train acc 0.9884, val loss 1.3956, val acc 0.7466
+Epoch 20: train loss 0.0334, train acc 0.9879, val loss 1.3366, val acc 0.7617
+Epoch 21: train loss 0.0357, train acc 0.9878, val loss 1.3798, val acc 0.7410
+Epoch 22: train loss 0.0294, train acc 0.9896, val loss 1.3081, val acc 0.7708
+Epoch 23: train loss 0.0345, train acc 0.9880, val loss 1.2979, val acc 0.7590
+Epoch 24: train loss 0.0321, train acc 0.9892, val loss 1.3803, val acc 0.7467
+Epoch 25: train loss 0.0244, train acc 0.9919, val loss 1.2746, val acc 0.7638
+Epoch 26: train loss 0.0195, train acc 0.9936, val loss 1.3084, val acc 0.7646
+Epoch 27: train loss 0.0186, train acc 0.9937, val loss 1.4946, val acc 0.7571
+Epoch 28: train loss 0.0257, train acc 0.9910, val loss 1.5044, val acc 0.7485
+Epoch 29: train loss 0.0356, train acc 0.9878, val loss 1.3940, val acc 0.7552
+custom-resnet-36-mod4 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.9813, train acc 0.6522, val loss 0.8687, val acc 0.7084
+Epoch 1: train loss 0.5305, train acc 0.8166, val loss 0.6486, val acc 0.7788
+Epoch 2: train loss 0.3489, train acc 0.8802, val loss 0.6965, val acc 0.7834
+Epoch 3: train loss 0.2345, train acc 0.9191, val loss 0.6611, val acc 0.8041
+Epoch 4: train loss 0.1681, train acc 0.9414, val loss 0.7740, val acc 0.7906
+Epoch 5: train loss 0.1190, train acc 0.9591, val loss 0.9789, val acc 0.7665
+Epoch 6: train loss 0.0934, train acc 0.9678, val loss 0.7385, val acc 0.8146
+Epoch 7: train loss 0.0728, train acc 0.9747, val loss 0.7149, val acc 0.8234
+Epoch 8: train loss 0.0641, train acc 0.9779, val loss 0.8167, val acc 0.8125
+Epoch 9: train loss 0.0511, train acc 0.9825, val loss 0.8237, val acc 0.8204
+Epoch 10: train loss 0.0491, train acc 0.9829, val loss 0.7751, val acc 0.8337
+Epoch 11: train loss 0.0407, train acc 0.9863, val loss 0.8806, val acc 0.8174
+Epoch 12: train loss 0.0419, train acc 0.9859, val loss 0.8588, val acc 0.8148
+Epoch 13: train loss 0.0370, train acc 0.9868, val loss 0.8478, val acc 0.8239
+Epoch 14: train loss 0.0341, train acc 0.9877, val loss 0.8496, val acc 0.8244
+Epoch 15: train loss 0.0349, train acc 0.9880, val loss 0.8307, val acc 0.8238
+Epoch 16: train loss 0.0359, train acc 0.9875, val loss 0.8685, val acc 0.8237
+Epoch 17: train loss 0.0282, train acc 0.9902, val loss 0.8568, val acc 0.8323
+Epoch 18: train loss 0.0243, train acc 0.9917, val loss 0.8981, val acc 0.8212
+Epoch 19: train loss 0.0230, train acc 0.9925, val loss 0.8861, val acc 0.8298
+Epoch 20: train loss 0.0214, train acc 0.9927, val loss 0.9403, val acc 0.8231
+Epoch 21: train loss 0.0231, train acc 0.9920, val loss 0.8809, val acc 0.8309
+Epoch 22: train loss 0.0260, train acc 0.9910, val loss 0.9110, val acc 0.8203
+Epoch 23: train loss 0.0309, train acc 0.9893, val loss 0.8201, val acc 0.8358
+Epoch 24: train loss 0.0171, train acc 0.9943, val loss 0.9263, val acc 0.8219
+Epoch 25: train loss 0.0183, train acc 0.9941, val loss 0.9049, val acc 0.8264
+Epoch 26: train loss 0.0240, train acc 0.9920, val loss 0.8799, val acc 0.8279
+Epoch 27: train loss 0.0208, train acc 0.9927, val loss 0.8773, val acc 0.8371
+Epoch 28: train loss 0.0203, train acc 0.9931, val loss 0.8628, val acc 0.8359
+Epoch 29: train loss 0.0196, train acc 0.9935, val loss 0.9091, val acc 0.8324
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 0: train loss 0.7790, train acc 0.7251, val loss 0.6727, val acc 0.7696
+Epoch 1: train loss 0.3614, train acc 0.8746, val loss 0.8338, val acc 0.7367
+Epoch 2: train loss 0.2130, train acc 0.9270, val loss 0.4749, val acc 0.8457
+Epoch 3: train loss 0.1290, train acc 0.9554, val loss 0.4834, val acc 0.8611
+Epoch 4: train loss 0.0925, train acc 0.9684, val loss 0.6371, val acc 0.8242
+Epoch 5: train loss 0.0739, train acc 0.9748, val loss 0.4852, val acc 0.8720
+Epoch 6: train loss 0.0498, train acc 0.9830, val loss 0.5593, val acc 0.8618
+Epoch 7: train loss 0.0383, train acc 0.9873, val loss 0.5576, val acc 0.8678
+Epoch 8: train loss 0.0446, train acc 0.9851, val loss 0.5094, val acc 0.8721
+Epoch 9: train loss 0.0407, train acc 0.9865, val loss 0.7805, val acc 0.8309
+Epoch 10: train loss 0.0284, train acc 0.9906, val loss 0.4773, val acc 0.8859
+Epoch 11: train loss 0.0252, train acc 0.9914, val loss 0.5413, val acc 0.8795
+Epoch 12: train loss 0.0295, train acc 0.9896, val loss 0.5442, val acc 0.8777
+Epoch 13: train loss 0.0257, train acc 0.9913, val loss 0.5752, val acc 0.8756
+Epoch 14: train loss 0.0330, train acc 0.9884, val loss 0.5402, val acc 0.8800
+Epoch 15: train loss 0.0242, train acc 0.9919, val loss 0.5197, val acc 0.8840
+Epoch 16: train loss 0.0169, train acc 0.9943, val loss 0.5694, val acc 0.8789
+Epoch 17: train loss 0.0217, train acc 0.9927, val loss 0.5698, val acc 0.8794
+Epoch 18: train loss 0.0163, train acc 0.9948, val loss 0.5009, val acc 0.8933
+Epoch 19: train loss 0.0159, train acc 0.9946, val loss 0.5493, val acc 0.8823
+Epoch 20: train loss 0.0158, train acc 0.9948, val loss 0.5977, val acc 0.8814
+Epoch 21: train loss 0.0143, train acc 0.9950, val loss 0.5976, val acc 0.8802
+Epoch 22: train loss 0.0201, train acc 0.9932, val loss 0.5834, val acc 0.8811
+Epoch 23: train loss 0.0251, train acc 0.9915, val loss 0.6511, val acc 0.8675
+Epoch 24: train loss 0.0227, train acc 0.9923, val loss 0.5359, val acc 0.8858
+Epoch 25: train loss 0.0194, train acc 0.9932, val loss 0.6328, val acc 0.8708
+Epoch 26: train loss 0.0170, train acc 0.9942, val loss 0.5271, val acc 0.8913
+Epoch 27: train loss 0.0078, train acc 0.9974, val loss 0.5519, val acc 0.8872
+Epoch 28: train loss 0.0085, train acc 0.9972, val loss 0.5357, val acc 0.8913
+Epoch 29: train loss 0.0100, train acc 0.9964, val loss 0.5820, val acc 0.8903
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)
+Epoch 0: train loss 1.3270, train acc 0.5184, val loss 1.3586, val acc 0.5445
+Epoch 1: train loss 0.8629, train acc 0.6935, val loss 0.9565, val acc 0.6581
+Epoch 2: train loss 0.6572, train acc 0.7674, val loss 1.1602, val acc 0.6279
+Epoch 3: train loss 0.5002, train acc 0.8243, val loss 1.0064, val acc 0.6737
+Epoch 4: train loss 0.3815, train acc 0.8657, val loss 1.0423, val acc 0.6731
+Epoch 5: train loss 0.2766, train acc 0.9038, val loss 1.1393, val acc 0.6963
+Epoch 6: train loss 0.2034, train acc 0.9291, val loss 0.9251, val acc 0.7465
+Epoch 7: train loss 0.1463, train acc 0.9475, val loss 1.1230, val acc 0.7373
+Epoch 8: train loss 0.1190, train acc 0.9573, val loss 1.0053, val acc 0.7535
+Epoch 9: train loss 0.0752, train acc 0.9736, val loss 1.1820, val acc 0.7410
+Epoch 10: train loss 0.0651, train acc 0.9775, val loss 1.1287, val acc 0.7566
+Epoch 11: train loss 0.0682, train acc 0.9760, val loss 1.1081, val acc 0.7612
+Epoch 12: train loss 0.0683, train acc 0.9760, val loss 1.2563, val acc 0.7338
+Epoch 13: train loss 0.0522, train acc 0.9818, val loss 1.1351, val acc 0.7651
+Epoch 14: train loss 0.0337, train acc 0.9892, val loss 1.1753, val acc 0.7599
+Epoch 15: train loss 0.0387, train acc 0.9868, val loss 1.3017, val acc 0.7432
+Epoch 16: train loss 0.0399, train acc 0.9867, val loss 1.5001, val acc 0.7273
+Epoch 17: train loss 0.0628, train acc 0.9782, val loss 1.3773, val acc 0.7413
+Epoch 18: train loss 0.0366, train acc 0.9871, val loss 1.2994, val acc 0.7474
+Epoch 19: train loss 0.0348, train acc 0.9883, val loss 1.4711, val acc 0.7274
+Epoch 20: train loss 0.0300, train acc 0.9895, val loss 1.1999, val acc 0.7727
+Epoch 21: train loss 0.0199, train acc 0.9933, val loss 1.2436, val acc 0.7733
+Epoch 22: train loss 0.0326, train acc 0.9889, val loss 1.3303, val acc 0.7608
+Epoch 23: train loss 0.0394, train acc 0.9861, val loss 1.2713, val acc 0.7552
+Epoch 24: train loss 0.0315, train acc 0.9890, val loss 1.5569, val acc 0.7360
+Epoch 25: train loss 0.0235, train acc 0.9914, val loss 1.2444, val acc 0.7752
+Epoch 26: train loss 0.0177, train acc 0.9940, val loss 1.2583, val acc 0.7786
+Epoch 27: train loss 0.0261, train acc 0.9913, val loss 1.4760, val acc 0.7324
+Epoch 28: train loss 0.0332, train acc 0.9884, val loss 1.6547, val acc 0.7082
+Epoch 29: train loss 0.0309, train acc 0.9886, val loss 1.3060, val acc 0.7705
+custom-resnet-36-mod2 saved successfully.
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home2/aryan.g/miniconda3/envs/my_env/lib/python3.9/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)

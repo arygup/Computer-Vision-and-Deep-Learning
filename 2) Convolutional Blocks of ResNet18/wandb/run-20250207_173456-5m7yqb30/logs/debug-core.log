@@ -1,0 +1,6 @@
+{"time":"2025-02-07T17:34:56.18647967+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpdakt3imq/port-18993.txt","pid":18993,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-02-07T17:34:56.238510261+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":18993}
+{"time":"2025-02-07T17:34:56.238500584+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":40523,"Zone":""}}
+{"time":"2025-02-07T17:34:56.373572961+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:57896"}
+{"time":"2025-02-07T17:34:56.385517772+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"5m7yqb30","id":"127.0.0.1:57896"}
+{"time":"2025-02-07T17:34:56.504054973+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"5m7yqb30","id":"127.0.0.1:57896"}

@@ -1,0 +1,6 @@
+{"time":"2025-02-08T14:11:47.31443355+05:30","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmp_7u24gyw/port-23991.txt","pid":23991,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false}
+{"time":"2025-02-08T14:11:47.363788833+05:30","level":"INFO","msg":"Will exit if parent process dies.","ppid":23991}
+{"time":"2025-02-08T14:11:47.363783581+05:30","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":33759,"Zone":""}}
+{"time":"2025-02-08T14:11:47.487612005+05:30","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:35526"}
+{"time":"2025-02-08T14:11:47.498984801+05:30","level":"INFO","msg":"handleInformInit: received","streamId":"dzlock2u","id":"127.0.0.1:35526"}
+{"time":"2025-02-08T14:11:47.617468146+05:30","level":"INFO","msg":"handleInformInit: stream started","streamId":"dzlock2u","id":"127.0.0.1:35526"}

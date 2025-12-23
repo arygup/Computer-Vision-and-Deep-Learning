@@ -1,0 +1,14 @@
+{"time":"2025-02-07T17:34:56.387194217+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/home2/aryan.g/Q1/wandb/run-20250207_173456-5m7yqb30/logs/debug-core.log"}
+{"time":"2025-02-07T17:34:56.503983681+05:30","level":"INFO","msg":"created new stream","id":"5m7yqb30"}
+{"time":"2025-02-07T17:34:56.504043053+05:30","level":"INFO","msg":"stream: started","id":"5m7yqb30"}
+{"time":"2025-02-07T17:34:56.504058657+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5m7yqb30"}
+{"time":"2025-02-07T17:34:56.50412251+05:30","level":"INFO","msg":"sender: started","stream_id":"5m7yqb30"}
+{"time":"2025-02-07T17:34:56.504173137+05:30","level":"INFO","msg":"handler: started","stream_id":"5m7yqb30"}
+{"time":"2025-02-07T17:34:56.904258979+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-07T17:34:58.723756024+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T17:35:06.780779393+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T17:35:07.388454727+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T17:35:19.928250084+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T17:35:20.240845326+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-07T17:35:34.563195526+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-07T17:35:34.848938391+05:30","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-14.5-arm64-arm-64bit",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-01-17T10:27:09.237904Z",
+  "program":  "/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/q3.ipynb",
+  "codePath":  "MLP Classification on Image Features/q3.ipynb",
+  "git":  {
+    "remote":  "https://github.com/computer-vision-spring-25/assignment-1-aryangupta110.git",
+    "commit":  "019a2ea85b6746adfe7c077a64851809def7e236"
+  },
+  "email":  "aryan.g@research.iiit.ac.in",
+  "root":  "/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features",
+  "host":  "Aryans-MacBook-Air-3.local",
+  "executable":  "/opt/anaconda3/envs/cv/bin/python",
+  "codePathLocal":  "q3.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "236326010880"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "236326010880"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  7,
+    "memoryGb":  8,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "8589934592"
+  }
+}

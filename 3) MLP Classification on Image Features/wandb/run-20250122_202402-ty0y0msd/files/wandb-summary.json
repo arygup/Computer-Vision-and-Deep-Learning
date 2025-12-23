@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":598},"_runtime":598.065621,"Model1_Hog_val_loss":0.3353695849577586,"_timestamp":1.737558240385529e+09,"Model1_Hog_train_loss":0.2297015111297369,"Model1_Hog_train_acc":0.9143958333333333,"epoch":10,"Model1_Hog_val_acc":0.882,"_step":9}

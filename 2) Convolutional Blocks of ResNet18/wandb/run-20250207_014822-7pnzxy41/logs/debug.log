@@ -1,0 +1,12 @@
+2025-02-07 01:48:22,525 INFO    MainThread:86101 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_014822-7pnzxy41/logs/debug.log
+2025-02-07 01:48:22,525 INFO    MainThread:86101 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_014822-7pnzxy41/logs/debug-internal.log
+2025-02-07 01:48:22,525 INFO    MainThread:86101 [wandb_init.py:init():743] calling init triggers
+2025-02-07 01:48:22,525 INFO    MainThread:86101 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-02-07 01:48:22,525 INFO    MainThread:86101 [wandb_init.py:init():768] wandb.init() called when a run is still active
+2025-02-07 02:11:48,673 INFO    MainThread:86101 [wandb_init.py:setup_run_log_directory():624] Logging user logs to /Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_021148-038m2w00/logs/debug.log
+2025-02-07 02:11:48,674 INFO    MainThread:86101 [wandb_init.py:setup_run_log_directory():625] Logging internal logs to /Users/arygup/Desktop/Aryan_GAN/assignment-2-aryangupta110/CV Assignment 2/Q1/wandb/run-20250207_021148-038m2w00/logs/debug-internal.log
+2025-02-07 02:11:48,675 INFO    MainThread:86101 [wandb_init.py:init():743] calling init triggers
+2025-02-07 02:11:48,675 INFO    MainThread:86101 [wandb_init.py:init():748] wandb.init called with sweep_config: {}
+config: {}
+2025-02-07 02:11:48,675 INFO    MainThread:86101 [wandb_init.py:init():768] wandb.init() called when a run is still active

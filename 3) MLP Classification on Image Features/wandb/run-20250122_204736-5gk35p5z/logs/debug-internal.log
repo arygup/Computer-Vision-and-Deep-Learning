@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:47:36.547302+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_204736-5gk35p5z/logs/debug-core.log"}
+{"time":"2025-01-22T20:47:36.661441+05:30","level":"INFO","msg":"created new stream","id":"5gk35p5z"}
+{"time":"2025-01-22T20:47:36.661495+05:30","level":"INFO","msg":"stream: started","id":"5gk35p5z"}
+{"time":"2025-01-22T20:47:36.661504+05:30","level":"INFO","msg":"handler: started","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:47:36.66154+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:47:36.661533+05:30","level":"INFO","msg":"sender: started","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:47:37.210186+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:51:47.409824+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:51:47.410825+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:51:48.414673+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.276556375,"progress":"267B/267B"},{"desc":"uploading output.log","runtime_seconds":0.276527417,"progress":"921B/921B"}],"total_operations":2}}
+{"time":"2025-01-22T20:51:49.856819+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:51:51.274149+05:30","level":"INFO","msg":"stream: closing","id":"5gk35p5z"}
+{"time":"2025-01-22T20:51:51.274175+05:30","level":"INFO","msg":"handler: closed","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:51:51.274198+05:30","level":"INFO","msg":"sender: closed","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:51:51.27419+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5gk35p5z"}
+{"time":"2025-01-22T20:51:51.27441+05:30","level":"INFO","msg":"stream: closed","id":"5gk35p5z"}

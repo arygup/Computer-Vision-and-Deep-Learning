@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:34:03.878932+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203403-4lieeuvc/logs/debug-core.log"}
+{"time":"2025-01-22T20:34:03.988921+05:30","level":"INFO","msg":"created new stream","id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:03.988981+05:30","level":"INFO","msg":"stream: started","id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:03.988991+05:30","level":"INFO","msg":"handler: started","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:03.989023+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:03.989+05:30","level":"INFO","msg":"sender: started","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:04.378514+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:34:05.504193+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:34:05.504844+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:34:06.511745+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/Model1_Raw_confusion_matrix_1_9329a2a1926b1c6603ef.png","runtime_seconds":0.790256042,"progress":"40.6KB/40.6KB"},{"desc":"uploading config.yaml","runtime_seconds":0.269840792,"progress":"604B/604B"}],"total_operations":2}}
+{"time":"2025-01-22T20:34:06.653526+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:34:08.16781+05:30","level":"INFO","msg":"stream: closing","id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:08.167848+05:30","level":"INFO","msg":"handler: closed","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:08.16787+05:30","level":"INFO","msg":"sender: closed","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:08.167868+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4lieeuvc"}
+{"time":"2025-01-22T20:34:08.168089+05:30","level":"INFO","msg":"stream: closed","id":"4lieeuvc"}

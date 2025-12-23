@@ -1,0 +1,13 @@
+2025-02-12 10:49:34,329 INFO    MainThread:22896 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250212_104934-u0h9kw3p/logs/debug.log
+2025-02-12 10:49:34,329 INFO    MainThread:22896 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250212_104934-u0h9kw3p/logs/debug-internal.log
+2025-02-12 10:49:34,329 INFO    MainThread:22896 [wandb_init.py:init():756] calling init triggers
+2025-02-12 10:49:34,329 INFO    MainThread:22896 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-12 10:49:34,329 INFO    MainThread:22896 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-02-12 10:54:50,622 INFO    MainThread:22896 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /home2/aryan.g/Q1/wandb/run-20250212_105450-evqpxgss/logs/debug.log
+2025-02-12 10:54:50,623 INFO    MainThread:22896 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /home2/aryan.g/Q1/wandb/run-20250212_105450-evqpxgss/logs/debug-internal.log
+2025-02-12 10:54:50,623 INFO    MainThread:22896 [wandb_init.py:init():756] calling init triggers
+2025-02-12 10:54:50,623 INFO    MainThread:22896 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-02-12 10:54:50,623 INFO    MainThread:22896 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-02-12 11:10:01,605 WARNING MsgRouterThr:22896 [router.py:message_loop():75] message_loop has been closed

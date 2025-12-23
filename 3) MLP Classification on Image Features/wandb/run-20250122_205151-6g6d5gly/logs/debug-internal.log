@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:51:51.308042+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_205151-6g6d5gly/logs/debug-core.log"}
+{"time":"2025-01-22T20:51:51.417619+05:30","level":"INFO","msg":"created new stream","id":"6g6d5gly"}
+{"time":"2025-01-22T20:51:51.417672+05:30","level":"INFO","msg":"stream: started","id":"6g6d5gly"}
+{"time":"2025-01-22T20:51:51.417711+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T20:51:51.417769+05:30","level":"INFO","msg":"handler: started","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T20:51:51.417778+05:30","level":"INFO","msg":"sender: started","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T20:51:51.907474+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T21:02:08.292347+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T21:02:08.295928+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T21:02:09.300502+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.034275209},{"desc":"uploading wandb-summary.json","runtime_seconds":0.033035875}],"total_operations":2}}
+{"time":"2025-01-22T21:02:10.036724+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T21:02:11.521682+05:30","level":"INFO","msg":"stream: closing","id":"6g6d5gly"}
+{"time":"2025-01-22T21:02:11.521731+05:30","level":"INFO","msg":"handler: closed","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T21:02:11.521776+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T21:02:11.522073+05:30","level":"INFO","msg":"sender: closed","stream_id":"6g6d5gly"}
+{"time":"2025-01-22T21:02:11.522145+05:30","level":"INFO","msg":"stream: closed","id":"6g6d5gly"}

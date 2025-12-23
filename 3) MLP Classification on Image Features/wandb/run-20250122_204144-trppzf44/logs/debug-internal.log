@@ -1,0 +1,10 @@
+{"time":"2025-01-22T20:41:44.701043+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_204144-trppzf44/logs/debug-core.log"}
+{"time":"2025-01-22T20:41:44.825926+05:30","level":"INFO","msg":"created new stream","id":"trppzf44"}
+{"time":"2025-01-22T20:41:44.826027+05:30","level":"INFO","msg":"stream: started","id":"trppzf44"}
+{"time":"2025-01-22T20:41:44.82603+05:30","level":"INFO","msg":"handler: started","stream_id":"trppzf44"}
+{"time":"2025-01-22T20:41:44.826058+05:30","level":"INFO","msg":"sender: started","stream_id":"trppzf44"}
+{"time":"2025-01-22T20:41:44.826075+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"trppzf44"}
+{"time":"2025-01-22T20:41:45.291097+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:42:51.660924+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-22T20:45:01.179326+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/smaia3/mlp-feature-comparison/trppzf44/file_stream"}
+{"time":"2025-01-22T20:45:01.180795+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/smaia3/mlp-feature-comparison/trppzf44/file_stream: {\"error\":\"run mlp-feature-comparison/trppzf44 not found while streaming file\"}"}

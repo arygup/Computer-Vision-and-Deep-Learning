@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:34:12.675588+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203412-rioqziyg/logs/debug-core.log"}
+{"time":"2025-01-22T20:34:12.794676+05:30","level":"INFO","msg":"created new stream","id":"rioqziyg"}
+{"time":"2025-01-22T20:34:12.794806+05:30","level":"INFO","msg":"stream: started","id":"rioqziyg"}
+{"time":"2025-01-22T20:34:12.794838+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:12.794833+05:30","level":"INFO","msg":"handler: started","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:12.794867+05:30","level":"INFO","msg":"sender: started","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:13.298117+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:34:13.679164+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:34:13.679942+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:34:14.686317+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/Model1_Canny_confusion_matrix_1_dafbd3fbfe0dced1ecf4.png","runtime_seconds":0.343087792,"progress":"42.9KB/42.9KB"},{"desc":"uploading output.log","runtime_seconds":0.343073},{"desc":"uploading wandb-summary.json","runtime_seconds":0.343069583,"progress":"467B/467B"},{"desc":"uploading config.yaml","runtime_seconds":0.043201416,"progress":"604B/604B"}],"total_operations":4}}
+{"time":"2025-01-22T20:34:15.140503+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:34:16.565442+05:30","level":"INFO","msg":"stream: closing","id":"rioqziyg"}
+{"time":"2025-01-22T20:34:16.565466+05:30","level":"INFO","msg":"handler: closed","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:16.565479+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:16.565511+05:30","level":"INFO","msg":"sender: closed","stream_id":"rioqziyg"}
+{"time":"2025-01-22T20:34:16.565621+05:30","level":"INFO","msg":"stream: closed","id":"rioqziyg"}

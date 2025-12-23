@@ -1,0 +1,16 @@
+{"time":"2025-01-22T20:39:40.99423+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/arygup/Desktop/Aryan_GAN/assignment-1-aryangupta110/MLP Classification on Image Features/wandb/run-20250122_203940-mxzy4e4a/logs/debug-core.log"}
+{"time":"2025-01-22T20:39:41.103428+05:30","level":"INFO","msg":"created new stream","id":"mxzy4e4a"}
+{"time":"2025-01-22T20:39:41.103501+05:30","level":"INFO","msg":"stream: started","id":"mxzy4e4a"}
+{"time":"2025-01-22T20:39:41.10351+05:30","level":"INFO","msg":"handler: started","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:39:41.103517+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:39:41.10355+05:30","level":"INFO","msg":"sender: started","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:39:41.594474+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-22T20:41:41.646155+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-22T20:41:41.658677+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-22T20:41:42.66339+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.29508575,"progress":"455B/455B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.293924333,"progress":"321B/321B"},{"desc":"uploading history steps 4-4, summary, console lines 4-4","runtime_seconds":0.091061667}],"total_operations":3}}
+{"time":"2025-01-22T20:41:43.238261+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-22T20:41:44.665286+05:30","level":"INFO","msg":"stream: closing","id":"mxzy4e4a"}
+{"time":"2025-01-22T20:41:44.665383+05:30","level":"INFO","msg":"handler: closed","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:41:44.665437+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:41:44.665688+05:30","level":"INFO","msg":"sender: closed","stream_id":"mxzy4e4a"}
+{"time":"2025-01-22T20:41:44.666004+05:30","level":"INFO","msg":"stream: closed","id":"mxzy4e4a"}
